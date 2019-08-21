@@ -65,7 +65,7 @@ Pag. 1150  Price 80 dollars<br>
 by Douglas Self<br>
 Pag 780  Price 97 dollars<br>
 <br>
-**Audio Power Amplifier Design, 6th Edition**
+**Audio Power Amplifier Design, 6th Edition** <br>
 by Douglas Self<br>
 Pag 718  Price 84 dollars<br>
 <br>
