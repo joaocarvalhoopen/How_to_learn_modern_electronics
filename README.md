@@ -10,7 +10,7 @@ The first book that you should read is a cheap book but a very good one.<br>
 <br>
 **Practical Electronics for Inventors, 4th Edition**<br>
 by Paul Scherz, Simon Monk<br>
-Pag. 1050 Price  40 dollars<br>
+Pag. 1050 <br>
 <br>
 Now that you know a little bit about what electronics is in the majority of the fields that are connected to electronic circuits, you should try to delve a little deeper in each subject.<br>
 
@@ -27,7 +27,7 @@ Pag. 159   Price Free Creative commons, but small symbolic price if bought on pa
 <br>
 **Fundamentals of Electric Circuits 6th Edition** <br>
 by Charles K Alexander, Matthew Sadiku<br>
-Pag. 992 Price High price tag<br>
+Pag. 992 <br>
 <br>
 
 ### Semiconductor devices and OpAmps
@@ -49,61 +49,61 @@ Pag. 778    Price Free online <br>
 ### Going deeper into the rabbit hole in electronics.
 **The Art of Electronics 3th Edition**<br>
 by Paul Horowitz, Winfield Hill<br>
-Pag. 1220 Price  120 dollars<br>
+Pag. 1220 <br>
 <br>
 **The Art of Electronics - The x Chapters**<br>
 by Paul Horowitz, Winfield Hill<br>
-Pag. 500 Price 60 dollars<br>
+Pag. 500 <br>
 <br>
 **Learning the Art of Electronics - A Hands-On Lab Course 1st Edition**<br>
 by Thomas C. Hayes, Paul Horowitz<br>
-Pag. 1150  Price 80 dollars<br>
+Pag. 1150 <br>
 <br>
 
 ### Audio amplifier and electronics
 **Small Signal Audio Design 2th Edition**<br>
 by Douglas Self<br>
-Pag 780  Price 97 dollars<br>
+Pag 780  <br>
 <br>
 **Audio Power Amplifier Design, 6th Edition** <br>
 by Douglas Self<br>
-Pag 718  Price 84 dollars<br>
+Pag 718  <br>
 <br>
 **Designing Audio Power Amplifiers 2nd Edition**<br>
 by Bob Cordell<br>
-Pag 792  Price 98 dollars<br>
+Pag 792  <br>
 <br>
 
 ### RF and Microwave
 **Electromagnetics Explained - A Handbook for Wireless/RF, EMC, and High-Speed Electronics 1st Edition**<br>
 by Ron Schmitt<br>
-Pag 410 Price 62 dollars<br> 
+Pag 410 <br> 
 <br>
 **Fundamentals of RF and Microwave Circuit Design - Practical Analysis and Design Tools**<br>
 by Manou Ghanevati, Ali Behagi<br>
-Pag 304 Price 84 dollars<br>
+Pag 304 <br>
 <br>
 **RF Circuit Design 2nd Edition**<br>
 by Christopher Bowick<br>
-Pag 256 Price 59 dollars<br>
+Pag 256 <br>
 <br>
 **Microwave Engineering 4th Edition**<br>
 by David M. Pozar<br>
-Pag. 752 Price 113 dollars<br>
+Pag. 752 <br>
 <br>
 
 ### PCB Design
 **KiCad Like a Pro**<br>
 by Dr Peter Dalmaris<br>
-Pag 485 Price 35 dollars<br>
+Pag 485 <br>
 <br>
 **Signal Integrity Issues and Printed Circuit Board Design**<br>
 by Douglas Brooks<br>
-Pag 428 Price 109 dollars<br>
+Pag 428 <br>
 <br>
 **Signal and Power Integrity - Simplified 3rd Edition**<br>
 by Eric Bogatin<br> 
-Pag 992 Price 125 dollars<br>
+Pag 992 <br>
 <br>
 
 ### Microcontrollers
@@ -119,39 +119,39 @@ Pag. 100    Price Free Creative commons, but small symbolic price if bought on p
 <br>
 **Programming Arduino - Getting Started with Sketches, 2nd Edition**<br>
 by Simon Monk<br>
-Pag 192 Price 15 dollars<br>
+Pag 192 <br>
 <br>
 **Programming Arduino Next Steps: Going Further with Sketches,  2nd Edition**<br>
 by Simon Monk<br>
-Pag 320  Price 20 dollars<br>
+Pag 320 <br>
 <br>
 **AVR Programming - Learning to Write Software for Hardware**<br>
 by Elliot Williams<br>
-Pag 474 Price 45 dollars<br>
+Pag 474 <br>
 <br>
 **Beginning STM32 - Developing with FreeRTOS, libopencm3 and GCC**<br>
 by Warren Gay<br>
-Pag 432 Price 38 dollars<br>
+Pag 432 <br>
 <br>
 **Real-time Operating Systems Book 1: The Theory**<br>
 by Dr. Jim Cooling<br>
-Pag 296 Price 25 dollars<br>
+Pag 296 <br>
 <br>
 
 ### Raspberry Pi
 **Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux**<br>
 by Derek Molloy<br>
-Pag 720 Price 35 dollars<br>
+Pag 720 <br>
 <br>
 
 ### FPGA
 **Verilog by Example: A Concise Introduction for FPGA Design**<br> 
 by Blaine Readler<br>
-Pag 124 Price 20 dollars<br>
+Pag 124 <br>
 <br>
 **VHDL By Example: A Concise Introduction for FPGA Design**<br>
 by Blaine Readler<br>
-Pag 120 Price 20 dollars<br>
+Pag 120 <br>
 <br>
 
 ### DSP – Digital Signal Programming
@@ -162,37 +162,37 @@ Pag 626 Price Free on the net<br>
 <br>
 **Understanding Digital Signal Processing 3rd Edition**<br>
 by Richard G. Lyons<br>
-Pag 954 Price 120 dollars<br>
+Pag 954 <br>
 <br>
 
 ### Programming
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
 by Eric Matthes<br>
-Pag 544 Price 40 dollars<br>
+Pag 544 <br>
 <br>
 **C Programming- A Modern Approach, 2nd Edition**<br>
 by K. N. King<br>
-Pag 832  Price 120 dollares<br>
+Pag 832  <br>
 <br>
 **Programming: Principles and Practice Using C++ 2nd Edition**<br>
 by Bjarne Stroustrup<br>
-Pag 1312 Price 75 dollars<br>
+Pag 1312 <br>
 <br>
 
 ### Mathematics
 **Engineering Mathematics**<br>
 by Prof Anthony Croft, Dr Robert Davison<br>
-Pag 1024 Price 53 GBP<br>
+Pag 1024 <br>
 <br>
 **Higher Engineering Mathematics, 8th edition**<br> 
 by John Bird<br>
-Pag 924 Price 40 GBP<br>
+Pag 924 <br>
 <br>
 
 ### Physics
 **Advanced Physics For You**<br>
 by Keith Johnson , Simmone Hewett<br>
-Pag 512  Price 47 dollars<br>
+Pag 512 <br>
 <br>
 **The Feynman Lectures on Physics Vol I, Vol II and Vol III**<br>
 by Richard Feynman<br>
