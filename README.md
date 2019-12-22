@@ -208,6 +208,7 @@ Pag 1552 Price Free on the net<br>
 ## Sites
 * [HackADay](https://hackaday.com/)
 * [EEVBlog](https://www.eevblog.com/)
+* [The Amp Hour Electronics Podcast](https://theamphour.com/)
 * [All about circuits](https://www.allaboutcircuits.com)
 * [KiCAD free PCB software](http://www.kicad-pcb.org/)
 * [LTSpice free simulation software](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
