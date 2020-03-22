@@ -253,6 +253,7 @@ Pag 1552 Price Free on the net<br>
 * [How 555 timers Work - The Learning Circuit](https://www.youtube.com/watch?v=oZzjmAbyyIQ&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=7)
 * [Introducing Microphones and Speakers - The Learning Circuit](https://www.youtube.com/watch?v=RlajQKES7WA&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=17)
 * [Intro to DC Motors - The Learning Circuit](https://www.youtube.com/watch?v=e2NhHZ2QpR4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=22)
+* [Circuit Symbols & Diagrams - The Learning Circuit](https://www.youtube.com/watch?v=ML9VqzZvkl8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=30)
 * [Learning About Polymer Capacitors - The Learning Circuit](https://www.youtube.com/watch?v=sLF1QMVMJi8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=23)
 
 <br>
