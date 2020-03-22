@@ -240,6 +240,7 @@ Pag 1552 Price Free on the net<br>
 ## Selected videos of analog electronics
 * [Electricity & Magnetism - The Learning Circuit](https://www.youtube.com/watch?v=F_KXUIZebCc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=28)
 * [Resistors - The Learning Circuit](https://www.youtube.com/watch?v=3MkWZ38WY5U&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=46)
+* [Reading Resistor Chart Values - The Learning Circuit](https://www.youtube.com/watch?v=BRHn8Z2P9y8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=42)
 * [Switches - Poles, Throws, and Relays - The Learning Circuit](https://www.youtube.com/watch?v=ZSImeE-MCTc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=19)
 * [How Capacitors Work - The Learning Circuit](https://www.youtube.com/watch?v=qnILxgpNjfI&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=34)
 * [Intro to Inductors - The Learning Circuit](https://www.youtube.com/watch?v=cP2HBq6DkSc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=25)
@@ -254,6 +255,7 @@ Pag 1552 Price Free on the net<br>
 * [Introducing Microphones and Speakers - The Learning Circuit](https://www.youtube.com/watch?v=RlajQKES7WA&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=17)
 * [Intro to DC Motors - The Learning Circuit](https://www.youtube.com/watch?v=e2NhHZ2QpR4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=22)
 * [Circuit Symbols & Diagrams - The Learning Circuit](https://www.youtube.com/watch?v=ML9VqzZvkl8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=30)
+* [Making a Circuit from a Schematic - The Learning Circuit](https://www.youtube.com/watch?v=8fyxr5ZpuQQ)
 * [Learning About Polymer Capacitors - The Learning Circuit](https://www.youtube.com/watch?v=sLF1QMVMJi8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=23)
 
 <br>
@@ -263,8 +265,6 @@ Pag 1552 Price Free on the net<br>
 * [The Learning Circuit - Series & Parallel Circuits](https://www.youtube.com/watch?v=Bs-npHUC66M&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=61)
 * [The Learning Circuit - Ohm's Law](https://www.youtube.com/watch?v=kQoLy_us5J4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=58)
 * [The Learning Circuit - The Science of Electricity](https://www.youtube.com/watch?v=EHvADE6mJKk&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=55)
-* [Reading Resistor Chart Values - The Learning Circuit](https://www.youtube.com/watch?v=BRHn8Z2P9y8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=42)
-* [Making a Circuit from a Schematic - The Learning Circuit](https://www.youtube.com/watch?v=8fyxr5ZpuQQ)
 
 ## Online Courses
 
@@ -281,7 +281,7 @@ Pag 1552 Price Free on the net<br>
 ### PCB design courses
 
 * **KiCAD like a Pro** <br>
-  I have made this course and reed the book and I can recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade.    
+  I have made this course and reed the book and I can recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade. <br>    
   [KiCAD like a Pro](https://kicad.txplore.com/)
 
 
