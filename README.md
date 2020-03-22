@@ -237,6 +237,53 @@ Pag 1552 Price Free on the net<br>
 * Wave Form generator
 * Logical analyzer (if possible)   
 
+## Selected videos of analog electronics
+* [Electricity & Magnetism - The Learning Circuit](https://www.youtube.com/watch?v=F_KXUIZebCc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=28)
+* [Resistors - The Learning Circuit](https://www.youtube.com/watch?v=3MkWZ38WY5U&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=46)
+* [Switches - Poles, Throws, and Relays - The Learning Circuit](https://www.youtube.com/watch?v=ZSImeE-MCTc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=19)
+* [How Capacitors Work - The Learning Circuit](https://www.youtube.com/watch?v=qnILxgpNjfI&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=34)
+* [Intro to Inductors - The Learning Circuit](https://www.youtube.com/watch?v=cP2HBq6DkSc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=25)
+* [How OpAmps Work - The Learning Circuit](https://www.youtube.com/watch?v=kbVqTMy8HMg)
+* [How Diodes Work - The Learning Circuit](https://www.youtube.com/watch?v=-SSkjWuUri4)
+* [Types of Diodes - The Learning Circuit](https://www.youtube.com/watch?v=ABBOR1qqRFI)
+* [How Transistors Work - The Learning Circuit](https://www.youtube.com/watch?v=R0Uy4EL4xWs)
+* [How FETs Function - The Learning Circuit](https://www.youtube.com/watch?v=wNiXUZIHQLw&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=32)
+* [How Logic Gates Work - The Learning Circuit](https://www.youtube.com/watch?v=lXWpWNKwYbo&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=13)
+* [How Integrated Circuits Work - The Learning Circuit](https://www.youtube.com/watch?v=igVtLuqmxyM&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=15)
+* [How 555 timers Work - The Learning Circuit](https://www.youtube.com/watch?v=oZzjmAbyyIQ&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=7)
+* [Introducing Microphones and Speakers - The Learning Circuit](https://www.youtube.com/watch?v=RlajQKES7WA&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=17)
+* [Intro to DC Motors - The Learning Circuit](https://www.youtube.com/watch?v=e2NhHZ2QpR4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=22)
+* [Learning About Polymer Capacitors - The Learning Circuit](https://www.youtube.com/watch?v=sLF1QMVMJi8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=23)
+
+<br>
+
+* [The Learning Circuit - Learning to Solder!](https://www.youtube.com/watch?v=3atp5GXslcw&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=56)
+* [The Learning Circuit - Basic Soldering Tools](https://www.youtube.com/watch?v=IEkB12iwcTA&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=57)
+* [The Learning Circuit - Series & Parallel Circuits](https://www.youtube.com/watch?v=Bs-npHUC66M&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=61)
+* [The Learning Circuit - Ohm's Law](https://www.youtube.com/watch?v=kQoLy_us5J4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=58)
+* [The Learning Circuit - The Science of Electricity](https://www.youtube.com/watch?v=EHvADE6mJKk&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=55)
+* [Reading Resistor Chart Values - The Learning Circuit](https://www.youtube.com/watch?v=BRHn8Z2P9y8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=42)
+* [Making a Circuit from a Schematic - The Learning Circuit](https://www.youtube.com/watch?v=8fyxr5ZpuQQ)
+
+## Online Courses
+
+### Embedded systems development courses 
+
+* **Learn ESP32 with Arduino IDE** <br>
+  I have made this course and I can recommend it, because it a good course. It's an extensive course, good for the beginner and not so beginners. It covers in many, many projects all the micro-controller programming and the IoT - Internet Of Things stuff with the Arduino IDE. The author is constantly adding material to the course. I have experience with several different micro-controllers and in my opinion, the ESP32 and the future ESP32-S02 are good safe bet's to learn micro-controllers in general and IoT in particular. Also they are low cost and have large range of advanced features. <br>
+  [Course](https://randomnerdtutorials.com/learn-esp32-with-arduino-ide/)
+
+* **Learn ESP32 The ESP-IDF** <br>
+  I have made this course and I can recommend it highly, this is an excellent course. This is a course for a more professional or more in depth persons, for the ones that really need to know what's under the hood and wont to make use of every feature, capacity and possibility that the incredible ESP32 provides. The framework used (ESP-IDF) is the one made by ExpressIF, the enterprise that makes the ESP32. The knowledge that you will obtain from this course is really profound, although the author goes to extensive length to explain the foundations that you need even in more advanced C programming, it is for people that already used a micro-controller before, be it a simple Arduino Uno board, or a more professional one. But I would like to say clearly that, the knowledge that you get in this course is profound. In my opinion it gives you the tools, it enables you to work professional on this field developing embedded systems software with the ESP32 including IoT. The course already as 12 hours, with all the code accessible in GitHub but it's author is currently still adding content. It also includes advanced sections on freeRTOS. It uses in a very intelligent and useful way the free Visual Studio Code Editor in Windows and Linux, even allowing debugging in ESP32 inside Visual Studio Code with a cheap 10 dollars JTAG board. <br>
+  [Course](https://www.learnesp32.com/)
+
+### PCB design courses
+
+* **KiCAD like a Pro**
+  I have made this course and reed the book and I can recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade.    
+  [KiCAD like a Pro](https://kicad.txplore.com/)
+
+
 ## Have fun!
 Best regards,<br>
 Joao Nuno Carvalho<br>
