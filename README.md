@@ -280,7 +280,7 @@ Pag 1552 Price Free on the net<br>
 
 ### PCB design courses
 
-* **KiCAD like a Pro**
+* **KiCAD like a Pro** <br>
   I have made this course and reed the book and I can recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade.    
   [KiCAD like a Pro](https://kicad.txplore.com/)
 
