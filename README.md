@@ -166,6 +166,24 @@ by Dr. Jim Cooling<br>
 Pag 296 <br>
 <br>
 
+### Microprocessors and Computer Systems
+**Digital Design and Computer Architecture: ARM Edition**<br>
+by Sarah Harris, David Harris<br>
+Pag 584 <br>
+<br>
+**Computer Architecture: A Quantitative Approach, 6th Edition**<br>
+by John L. Hennessy, David A. Patterson<br>
+Pag 936 <br>
+<br>
+**Computer Organization and Design RISC-V Edition: The Hardware Software Interface**<br>
+by David A. Patterson, John L. Hennessy<br>
+Pag 696 <br>
+<br>
+**Computer Systems: A Programmer's Perspective, 3th Edition**<br>
+by Randal E. Bryant, David R. O'Hallaron<br>
+Pag 1120 <br>
+<br>
+
 ### Raspberry Pi
 **Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux**<br>
 by Derek Molloy<br>
@@ -205,6 +223,10 @@ Pag 832  <br>
 **Programming: Principles and Practice Using C++ 2nd Edition**<br>
 by Bjarne Stroustrup<br>
 Pag 1312 <br>
+<br>
+**The Linux Programming Interface: A Linux and UNIX System Programming Handbook**<br>
+by Michael Kerrisk<br>
+Pag 1553 <br>
 <br>
 
 ### Mathematics
