@@ -228,6 +228,10 @@ Pag 1312 <br>
 by Michael Kerrisk<br>
 Pag 1553 <br>
 <br>
+**Linux Driver Development for Embedded Processors, 2th Edition**<br>
+by Alberto Liberal de los Ríos<br>
+Pag 680 <br>
+<br>
 
 ### Mathematics
 **Engineering Mathematics**<br>
@@ -250,6 +254,16 @@ Pag 1552 Price Free on the net<br>
 [book](http://www.feynmanlectures.caltech.edu/)<br>
 <br>
 
+### Machine Learning on the Microcontroller
+**TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers**<br>
+by Pete Warden, Daniel Situnayake<br>
+Pag 504<br>
+<br>
+**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition**<br>
+by Aurélien Géron<br>
+Pag 851 <br>
+<br>
+
 ## Sites
 * [HackADay](https://hackaday.com/)
 * [EEVBlog](https://www.eevblog.com/)
@@ -261,6 +275,7 @@ Pag 1552 Price Free on the net<br>
 * [Free Electronics books and software](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
 * [Talking Electronics](http://www.talkingelectronics.com/te_interactive_index.html)
 * [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+* [Eloquent Arduino - Machine Learning for microcontrollers blog](https://eloquentarduino.github.io/)
 
 ## Youtube Channels
 * [EEVBlog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ)
