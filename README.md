@@ -59,6 +59,16 @@ Pag. 500 <br>
 by Thomas C. Hayes, Paul Horowitz<br>
 Pag. 1150 <br>
 <br>
+**Electronic Circuits: Handbook for Design and Application, 2º Edition**<br>
+by Ulrich Tietze<br>
+Pag. 1543 <br>
+<br>
+
+### Power electronics
+**Power Electronics**<br>
+by Daniel Hart<br>
+Pag 496 <br>
+<br>
 
 ### Audio amplifier and electronics
 **Small Signal Audio Design 2th Edition**<br>
@@ -96,6 +106,15 @@ by Thomas H. Lee<br>
 Pag. 882 <br>
 <br>
 
+### Antenna design
+**Practical Antenna Handbook, 5th Edition**<br>
+by Joseph Carr, George Hippisley<br>
+Pag 784 <br>
+<br>
+**Antenna Theory: Analysis and Design, 4th Edition**<br>
+by Constantine A. Balanis<br>
+Pag. 1104 <br>
+<br>
 
 ### PCB Design
 **KiCad Like a Pro**<br>
@@ -109,6 +128,10 @@ Pag 428 <br>
 **Signal and Power Integrity - Simplified 3rd Edition**<br>
 by Eric Bogatin<br> 
 Pag 992 <br>
+<br>
+**High Speed Digital Design - A Handbook of Black Magic**<br>
+by Howard W. Johnson, Martin Graham<br> 
+Pag 447 <br>
 <br>
 
 ### Microcontrollers
