@@ -338,7 +338,6 @@ Pag 851 <br>
 * [Site MicroPython - The locations of several already compiled images for MicroPython for several different boards](https://micropython.org/download)
 * [GitHub MicroPython - see examples, ports and port/minimal to STM32 example](https://github.com/micropython/micropython)
 
-<br>
 **First video tutorial**
 
 * [MicroPython #1 - Lets Get Started](https://www.youtube.com/watch?v=5W3WvXAmDJc&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=1)
@@ -348,7 +347,6 @@ Pag 851 <br>
 * [MicroPython #5 - JSON & Network Modules and Practical Example](https://www.youtube.com/watch?v=Kqnw9jvceSg&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=5)
 * [MicroPython Made Easier](https://www.youtube.com/watch?v=EJPFWMLxRx8&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=6)
 
-<br>
 **Second video tutorial more project based**
 
 * [ESP32 MicroPython Tutorial with Raspberry Pi](https://www.youtube.com/watch?v=w15-EQASP_Y&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT)
@@ -359,7 +357,7 @@ Pag 851 <br>
 * [ESP32 LoBo MicroPython WebSocket Server with ReactJS and MST](https://www.youtube.com/watch?v=uzY6aSg9Ly8&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=6)
 
 ## Selected videos of Machine Learning TensorFlow Lite on Raspberry Pi
-* [Intro to Edge AI- Machine Learning and  IoT](https://www.youtube.com/watch?v=Ejld8XZmvwE)
+* [Intro to Edge AI - Machine Learning and  IoT](https://www.youtube.com/watch?v=Ejld8XZmvwE)
 * [Getting Started with TensorFlow and Keras](https://www.youtube.com/watch?v=HCG3hFe1KYY)
 * [Intro to TensorFlow Lite Part 1 - Wake Word Feature Extraction](https://www.youtube.com/watch?v=0fn7pj7Dutc)
 * [Intro to TensorFlow Lite Part 2 - Speech Recognition Model Training](https://www.youtube.com/watch?v=yv_WVwr6OkI)
