@@ -326,6 +326,45 @@ Pag 851 <br>
 * [The Learning Circuit - Ohm's Law](https://www.youtube.com/watch?v=kQoLy_us5J4&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=58)
 * [The Learning Circuit - The Science of Electricity](https://www.youtube.com/watch?v=EHvADE6mJKk&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=55)
 
+## Selected videos of STM32 Micro-Controller programming
+* [Getting Started with STM32 and Nucleo Part 1 - Introduction to STM32CubeIDE and Blinky – Digi-Key](https://www.youtube.com/watch?v=hyZS2p1tW-g)
+* [Getting Started With STM32 and Nucleo Part 2 - How to Use I2C to Read Temperature Sensor TMP102](https://www.youtube.com/watch?v=isOekyygpR8&list=RDCMUCclJCqMDAkyVGsm5oFOTXIQ&start_radio=1)
+* [Getting Started With STM32 and Nucleo Part 3 - FreeRTOS - How To Run Multiple Threads w/ CMSIS-RTOS](https://www.youtube.com/watch?v=OPrcpbKNSjU)
+* [Getting Started With STM32 & Nucleo Part 4 - Working with ADC and DMA](https://www.youtube.com/watch?v=EsZLgqhqfO0)
+* [Programming the Adafruit Feather STM32F405 Express with STM32CubeIDE](https://www.youtube.com/watch?v=gOjzs4y5hWA)
+
+## Selected videos of MicroPython ESP32 and STM32 micro-controller programming
+* [Site MicroPython - link](https://micropython.org/)
+* [Site MicroPython - The locations of several already compiled images for MicroPython for several different boards](https://micropython.org/download)
+* [GitHub MicroPython - see examples, ports and port/minimal to STM32 example](https://github.com/micropython/micropython)
+
+<br>
+**First video tutorial**
+
+* [MicroPython #1 - Lets Get Started](https://www.youtube.com/watch?v=5W3WvXAmDJc&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=1)
+* [MicroPython #2 - Hit the ground running](https://www.youtube.com/watch?v=DFp_T-H3eRc&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=2)
+* [MicroPython #3 - Fundamentals](https://www.youtube.com/watch?v=Rd9V6qEIfv4&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=3)
+* [MicroPython #4 - PWM, ADC, Timers & Interrupts](https://www.youtube.com/watch?v=Mku1Bq78nXw&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=4)
+* [MicroPython #5 - JSON & Network Modules and Practical Example](https://www.youtube.com/watch?v=Kqnw9jvceSg&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=5)
+* [MicroPython Made Easier](https://www.youtube.com/watch?v=EJPFWMLxRx8&list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl&index=6)
+
+<br>
+**Second video tutorial more project based**
+
+* [ESP32 MicroPython Tutorial with Raspberry Pi](https://www.youtube.com/watch?v=w15-EQASP_Y&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT)
+* [ESP32 MicroPython MQTT Tutorial with Raspberry Pi and  DHT-22 and OLED](https://www.youtube.com/watch?v=_vcQTyLU1WY&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=2)
+* [ESP32 MicroPython Web Server](https://www.youtube.com/watch?v=xscBwC1SrF4&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=3)
+* [ESP32 MicroPython OLED Tutorial with ADC and FTP](https://www.youtube.com/watch?v=a7DrFqqu-78&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=4)
+* [ESP32 MicroPython Capacitive Touch and Sound Tutorial](https://www.youtube.com/watch?v=QzOkSeeqB8g&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=5)
+* [ESP32 LoBo MicroPython WebSocket Server with ReactJS and MST](https://www.youtube.com/watch?v=uzY6aSg9Ly8&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=6)
+
+## Selected videos of Machine Learning TensorFlow Lite on Raspberry Pi
+* [Intro to Edge AI- Machine Learning and  IoT](https://www.youtube.com/watch?v=Ejld8XZmvwE)
+* [Getting Started with TensorFlow and Keras](https://www.youtube.com/watch?v=HCG3hFe1KYY)
+* [Intro to TensorFlow Lite Part 1 - Wake Word Feature Extraction](https://www.youtube.com/watch?v=0fn7pj7Dutc)
+* [Intro to TensorFlow Lite Part 2 - Speech Recognition Model Training](https://www.youtube.com/watch?v=yv_WVwr6OkI)
+* [Intro to TensorFlow Lite Part 3 - Speech Recognition on Raspberry Pi](https://www.youtube.com/watch?v=8-vl9bNY9aI)
+
 ## Online Courses
 
 ### Embedded systems development courses
