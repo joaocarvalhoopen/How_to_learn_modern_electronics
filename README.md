@@ -1,4 +1,5 @@
 # How to learn modern electronics
+
 **A guide to the adventurer**<br>
 First of all basic electronics can be simple to understand, but to understand it deeply and see were the rabbit hole goes you have to do some serious kind of study. The plan to enlightenment has multiple parallel path’s, but books, internet info, youtube video channels and good forums constitute the main pillars.<br>
 <br>
@@ -15,32 +16,44 @@ Pag. 1050 <br>
 Now that you know a little bit about what electronics is in the majority of the fields that are connected to electronic circuits, you should try to delve a little deeper in each subject.<br>
 
 ### Circuit analysis you should read.
+
+**DC Electrical Circuit Analysis - A Practical Approach**<br>
+by James M. Fiore <br>
+Pag. 374   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
+<br>
+
 **Workbook for DC Electrical Circuits**<br>
-by James Fiore<br>
+by James M. Fiore<br>
 Pag. 128   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
 <br>
+
 **Workbook for AC Electrical Circuits** <br>
-by James Fiore<br>
+by James M. Fiore<br>
 Pag. 159   Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
+
 **Fundamentals of Electric Circuits 6th Edition** <br>
 by Charles K Alexander, Matthew Sadiku<br>
 Pag. 992 <br>
 <br>
 
 ### Semiconductor devices and OpAmps
+
 **Semiconductor Devices: Theory & Application** <br>
-by James Fiore<br>
+by James M. Fiore<br>
 Pag. 407    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>
 <br>
+
 **Operational Amplifiers & Linear Integrated Circuits 3th Edition**<br>
-by James Fiore<br>
+by James M. Fiore<br>
 Pag. 589    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
+
 **Principles of Electronics**<br>
 by Colin Mitchell<br>
 Pag. 778    Price Free online <br>
@@ -51,66 +64,80 @@ Pag. 778    Price Free online <br>
 by Paul Horowitz, Winfield Hill<br>
 Pag. 1220 <br>
 <br>
+
 **The Art of Electronics - The x Chapters**<br>
 by Paul Horowitz, Winfield Hill<br>
 Pag. 500 <br>
 <br>
+
 **Learning the Art of Electronics - A Hands-On Lab Course 1st Edition**<br>
 by Thomas C. Hayes, Paul Horowitz<br>
 Pag. 1150 <br>
 <br>
+
 **Electronic Circuits: Handbook for Design and Application, 2º Edition**<br>
 by Ulrich Tietze<br>
 Pag. 1543 <br>
 <br>
 
 ### Power electronics
+
 **Power Electronics**<br>
 by Daniel Hart<br>
 Pag 496 <br>
 <br>
 
 ### Audio amplifier and electronics
+
 **Small Signal Audio Design 2th Edition**<br>
 by Douglas Self<br>
 Pag 780  <br>
 <br>
+
 **Audio Power Amplifier Design, 6th Edition** <br>
 by Douglas Self<br>
 Pag 718  <br>
 <br>
+
 **Designing Audio Power Amplifiers 2nd Edition**<br>
 by Bob Cordell<br>
 Pag 792  <br>
 <br>
 
 ### RF and Microwave
+
 **Electromagnetics Explained - A Handbook for Wireless/RF, EMC, and High-Speed Electronics 1st Edition**<br>
 by Ron Schmitt<br>
 Pag 410 <br> 
 <br>
+
 **Fundamentals of RF and Microwave Circuit Design - Practical Analysis and Design Tools**<br>
 by Manou Ghanevati, Ali Behagi<br>
 Pag 304 <br>
 <br>
+
 **RF Circuit Design 2nd Edition**<br>
 by Christopher Bowick<br>
 Pag 256 <br>
 <br>
+
 **Microwave Engineering 4th Edition**<br>
 by David M. Pozar<br>
 Pag. 752 <br>
 <br>
+
 **Planar Microwave Engineering: A Practical Guide to Theory, Measurement, and Circuits**<br>
 by Thomas H. Lee<br>
 Pag. 882 <br>
 <br>
 
 ### Antenna design
+
 **Practical Antenna Handbook, 5th Edition**<br>
 by Joseph Carr, George Hippisley<br>
 Pag 784 <br>
 <br>
+
 **Antenna Theory: Analysis and Design, 4th Edition**<br>
 by Constantine A. Balanis<br>
 Pag. 1104 <br>
@@ -121,113 +148,137 @@ Pag. 1104 <br>
 by Dr Peter Dalmaris<br>
 Pag 485 <br>
 <br>
+
 **Signal Integrity Issues and Printed Circuit Board Design**<br>
 by Douglas Brooks<br>
 Pag 428 <br>
 <br>
+
 **Signal and Power Integrity - Simplified 3rd Edition**<br>
 by Eric Bogatin<br> 
 Pag 992 <br>
 <br>
+
 **High Speed Digital Design - A Handbook of Black Magic**<br>
 by Howard W. Johnson, Martin Graham<br> 
 Pag 447 <br>
 <br>
 
 ### Microcontrollers
+
 **Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
 Pag. 166    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
+
 **Laboratory Manual for Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
 Pag. 100    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
+
 **Programming Arduino - Getting Started with Sketches, 2nd Edition**<br>
 by Simon Monk<br>
 Pag 192 <br>
 <br>
+
 **Programming Arduino Next Steps: Going Further with Sketches,  2nd Edition**<br>
 by Simon Monk<br>
 Pag 320 <br>
 <br>
+
 **AVR Programming - Learning to Write Software for Hardware**<br>
 by Elliot Williams<br>
 Pag 474 <br>
 <br>
+
 **Beginning STM32 - Developing with FreeRTOS, libopencm3 and GCC**<br>
 by Warren Gay<br>
 Pag 432 <br>
 <br>
+
 **Real-time Operating Systems Book 1: The Theory**<br>
 by Dr. Jim Cooling<br>
 Pag 296 <br>
 <br>
 
 ### Microprocessors and Computer Systems
+
 **Digital Design and Computer Architecture: ARM Edition**<br>
 by Sarah Harris, David Harris<br>
 Pag 584 <br>
 <br>
+
 **Computer Architecture: A Quantitative Approach, 6th Edition**<br>
 by John L. Hennessy, David A. Patterson<br>
 Pag 936 <br>
 <br>
+
 **Computer Organization and Design RISC-V Edition: The Hardware Software Interface**<br>
 by David A. Patterson, John L. Hennessy<br>
 Pag 696 <br>
 <br>
+
 **Computer Systems: A Programmer's Perspective, 3th Edition**<br>
 by Randal E. Bryant, David R. O'Hallaron<br>
 Pag 1120 <br>
 <br>
 
 ### Raspberry Pi
+
 **Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux**<br>
 by Derek Molloy<br>
 Pag 720 <br>
 <br>
 
 ### FPGA
+
 **Verilog by Example: A Concise Introduction for FPGA Design**<br> 
 by Blaine Readler<br>
 Pag 124 <br>
 <br>
+
 **VHDL By Example: A Concise Introduction for FPGA Design**<br>
 by Blaine Readler<br>
 Pag 120 <br>
 <br>
 
 ### DSP – Digital Signal Programming
+
 **The Scientist & Engineer's Guide to Digital Signal Processing**<br>
 by Steven W. Smith<br>
 Pag 626 Price Free on the net<br>
 [book](http://www.dspguide.com/)<br>
 <br>
+
 **Understanding Digital Signal Processing 3rd Edition**<br>
 by Richard G. Lyons<br>
 Pag 954 <br>
 <br>
 
 ### Programming
+
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
 by Eric Matthes<br>
 Pag 544 <br>
 <br>
+
 **C Programming- A Modern Approach, 2nd Edition**<br>
 by K. N. King<br>
 Pag 832  <br>
 <br>
+
 **Programming: Principles and Practice Using C++ 2nd Edition**<br>
 by Bjarne Stroustrup<br>
 Pag 1312 <br>
 <br>
+
 **The Linux Programming Interface: A Linux and UNIX System Programming Handbook**<br>
 by Michael Kerrisk<br>
 Pag 1553 <br>
 <br>
+
 **Linux Driver Development for Embedded Processors, 2th Edition**<br>
 by Alberto Liberal de los Ríos<br>
 Pag 680 <br>
@@ -238,16 +289,19 @@ Pag 680 <br>
 by Prof Anthony Croft, Dr Robert Davison<br>
 Pag 1024 <br>
 <br>
+
 **Higher Engineering Mathematics, 8th edition**<br> 
 by John Bird<br>
 Pag 924 <br>
 <br>
 
 ### Physics
+
 **Advanced Physics For You**<br>
 by Keith Johnson , Simmone Hewett<br>
 Pag 512 <br>
 <br>
+
 **The Feynman Lectures on Physics Vol I, Vol II and Vol III**<br>
 by Richard Feynman<br>
 Pag 1552 Price Free on the net<br>
@@ -255,16 +309,19 @@ Pag 1552 Price Free on the net<br>
 <br>
 
 ### Machine Learning on the Microcontroller
+
 **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers**<br>
 by Pete Warden, Daniel Situnayake<br>
 Pag 504<br>
 <br>
+
 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition**<br>
 by Aurélien Géron<br>
 Pag 851 <br>
 <br>
 
 ## Sites
+
 * [HackADay](https://hackaday.com/)
 * [EEVBlog](https://www.eevblog.com/)
 * [The Amp Hour Electronics Podcast](https://theamphour.com/)
@@ -278,6 +335,7 @@ Pag 851 <br>
 * [Eloquent Arduino - Machine Learning for microcontrollers blog](https://eloquentarduino.github.io/)
 
 ## Youtube Channels
+
 * [EEVBlog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ)
 * [The Signal Path](https://www.youtube.com/channel/UCKxRARSpahF1Mt-2vbPug-g)
 * [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA)
@@ -287,6 +345,7 @@ Pag 851 <br>
 * [Jack Ganssle](https://www.youtube.com/channel/UC067MO4ZVsbA8QDJG0qCTJQ)
 
 ## Forums   
+
 * [EEVBlog forum](https://www.eevblog.com/forum/)
 
 ## Electronic Equipment
@@ -298,6 +357,7 @@ Pag 851 <br>
 * Logical analyzer (if possible)   
 
 ## Selected videos of analog electronics
+
 * [Electricity & Magnetism - The Learning Circuit](https://www.youtube.com/watch?v=F_KXUIZebCc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=28)
 * [Resistors - The Learning Circuit](https://www.youtube.com/watch?v=3MkWZ38WY5U&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=46)
 * [Reading Resistor Chart Values - The Learning Circuit](https://www.youtube.com/watch?v=BRHn8Z2P9y8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=42)
@@ -327,6 +387,7 @@ Pag 851 <br>
 * [The Learning Circuit - The Science of Electricity](https://www.youtube.com/watch?v=EHvADE6mJKk&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=55)
 
 ## Selected videos of STM32 Micro-Controller programming
+
 * [Getting Started with STM32 and Nucleo Part 1 - Introduction to STM32CubeIDE and Blinky – Digi-Key](https://www.youtube.com/watch?v=hyZS2p1tW-g)
 * [Getting Started With STM32 and Nucleo Part 2 - How to Use I2C to Read Temperature Sensor TMP102](https://www.youtube.com/watch?v=isOekyygpR8&list=RDCMUCclJCqMDAkyVGsm5oFOTXIQ&start_radio=1)
 * [Getting Started With STM32 and Nucleo Part 3 - FreeRTOS - How To Run Multiple Threads w/ CMSIS-RTOS](https://www.youtube.com/watch?v=OPrcpbKNSjU)
@@ -334,6 +395,7 @@ Pag 851 <br>
 * [Programming the Adafruit Feather STM32F405 Express with STM32CubeIDE](https://www.youtube.com/watch?v=gOjzs4y5hWA)
 
 ## Selected videos of MicroPython ESP32 and STM32 micro-controller programming
+
 * [Site MicroPython - link](https://micropython.org/)
 * [Site MicroPython - The locations of several already compiled images for MicroPython for several different boards](https://micropython.org/download)
 * [GitHub MicroPython - see examples, ports and port/minimal to STM32 example](https://github.com/micropython/micropython)
@@ -357,6 +419,7 @@ Pag 851 <br>
 * [ESP32 LoBo MicroPython WebSocket Server with ReactJS and MST](https://www.youtube.com/watch?v=uzY6aSg9Ly8&list=PLKGiH5V9SS1hUz5Jh_35oTFM4wPZYA4sT&index=6)
 
 ## Selected videos of Machine Learning TensorFlow Lite on Raspberry Pi
+
 * [Intro to Edge AI - Machine Learning and  IoT](https://www.youtube.com/watch?v=Ejld8XZmvwE)
 * [Getting Started with TensorFlow and Keras](https://www.youtube.com/watch?v=HCG3hFe1KYY)
 * [Intro to TensorFlow Lite Part 1 - Wake Word Feature Extraction](https://www.youtube.com/watch?v=0fn7pj7Dutc)
