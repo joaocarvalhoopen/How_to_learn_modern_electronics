@@ -342,6 +342,7 @@ Pag 851 <br>
 
 ## Youtube Channels
 
+* [Electronics with Professor Fiore](https://www.youtube.com/channel/UCIU5C0flnD-4moI0AquYxxQ)
 * [EEVBlog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ)
 * [The Signal Path](https://www.youtube.com/channel/UCKxRARSpahF1Mt-2vbPug-g)
 * [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA)
