@@ -23,6 +23,12 @@ Pag. 374   Price: Free Creative commons, but small symbolic price if bought on p
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
 <br>
 
+**AC Electrical Circuit Analysis - A Practical Approach**<br>
+by James M. Fiore <br>
+Pag. 422   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
+<br>
+
 **Workbook for DC Electrical Circuits**<br>
 by James M. Fiore<br>
 Pag. 128   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
