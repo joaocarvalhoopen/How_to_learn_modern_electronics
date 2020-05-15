@@ -430,18 +430,18 @@ Pag 851 <br>
 * [The Learning Circuit - The Science of Electricity](https://www.youtube.com/watch?v=EHvADE6mJKk&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=55)
 
 ## Selected videos of how to make a OpAmp with discrete components and how it works
+
 * Original article <br>
   [DIY Operational Amplifier by JIM KEITH](https://www.electroschematics.com/diy-operational-amplifier/)
-
-* [Video - #411 Build an OpAmp (part 1, current source)](https://www.youtube.com/watch?v=Z8JDsvfZjL8)
-* [Video - #412 Build an OpAmp (part 2, differential amplifier)](https://www.youtube.com/watch?v=T8RKIpNi5Qw)
-* [Video - #413 Build an OpAmp (part 3, output driver)](https://www.youtube.com/watch?v=yFONwpneemQ)
-* [Video - #414 Build an OpAmp (part 4, output stage)](https://www.youtube.com/watch?v=zl-NXsgxon0)
-* [Video - #415 Build an OpAmp (part 5, offset voltage adjust)](https://www.youtube.com/watch?v=RO7hq5auS8U)
-* [Video - #416 Build an OpAmp (part 6, how an opamp works)](https://www.youtube.com/watch?v=LcnSNGAyLt8)
-* [Video - #417 Build an OpAmp (part 7, Spice modeling the DIY op-amp)](https://www.youtube.com/watch?v=MsFkJTpsgdI)
+* [Video - 411 Build an OpAmp - part 1 - current source](https://www.youtube.com/watch?v=Z8JDsvfZjL8)
+* [Video - 412 Build an OpAmp - part 2 - differential amplifier](https://www.youtube.com/watch?v=T8RKIpNi5Qw)
+* [Video - 413 Build an OpAmp - part 3 - output driver](https://www.youtube.com/watch?v=yFONwpneemQ)
+* [Video - 414 Build an OpAmp - part 4 - output stage](https://www.youtube.com/watch?v=zl-NXsgxon0)
+* [Video - 415 Build an OpAmp - part 5 - offset voltage adjust](https://www.youtube.com/watch?v=RO7hq5auS8U)
+* [Video - 416 Build an OpAmp - part 6 - how an OpAmp works](https://www.youtube.com/watch?v=LcnSNGAyLt8)
+* [Video - 417 Build an OpAmp - part 7 - Spice modeling the DIY Op-Amp](https://www.youtube.com/watch?v=MsFkJTpsgdI)
 * This video explains the Class B and AB of a Push and Pull and other type of class B and AB amplifier. <br>
-  [Video - #271 two types of class B amplifiers](https://www.youtube.com/watch?v=slIOOJqZ3nw)
+  [Video - 271 two types of class B amplifiers](https://www.youtube.com/watch?v=slIOOJqZ3nw)
 
 ## Selected videos of STM32 Micro-Controller programming
 
