@@ -117,6 +117,42 @@ by Ron Schmitt<br>
 Pag 410 <br> 
 <br>
 
+**Fundamentals of Microwave and RF Design 3th Edition**<br>
+by Michael Steer<br>
+Pag 229, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
+**Microwave and RF Design: Radio Systems. Volume 1, 3th Edition**<br>
+by Michael Steer<br>
+Pag 244, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
+**Microwave and RF Design: Transmission Lines. Volume 2, 3th Edition**<br>
+by Michael Steer<br>
+Pag 284, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
+**Microwave and RF Design: Networks. Volume 3, 3th Edition**<br>
+by Michael Steer<br>
+Pag 240, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
+**Microwave and RF Design: Modules. Volume 4, 3th Edition**<br>
+by Michael Steer<br>
+Pag 254, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
+**Microwave and RF Design: Amplifiers and Oscillators. Volume 5, 3th Edition**<br>
+by Michael Steer<br>
+Pag 219, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+[book](https://repository.lib.ncsu.edu/handle/1840.20/36776) <br>
+<br>
+
 **Fundamentals of RF and Microwave Circuit Design - Practical Analysis and Design Tools**<br>
 by Manou Ghanevati, Ali Behagi<br>
 Pag 304 <br>
