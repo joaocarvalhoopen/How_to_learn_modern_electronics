@@ -362,6 +362,13 @@ by Aurélien Géron<br>
 Pag 851 <br>
 <br>
 
+# Analog Devices Courseware and practical labs.
+* [Engineering Discovery](https://wiki.analog.com/university/courses/engineering_discovery)
+* [Circuit I & II Lab Activities](https://wiki.analog.com/university/courses/alm1k/alm_circuits_lab_outline)
+* [Electronics I & II](https://wiki.analog.com/university/courses/electronics/text/electronics-toc)
+* [Electronics I & II Lab Activities](https://wiki.analog.com/university/courses/electronics/labs)
+* [Online Teaching Materials](https://wiki.analog.com/university/courses/tutorials/index)
+
 ## Sites
 
 * [HackADay](https://hackaday.com/)
