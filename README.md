@@ -381,6 +381,7 @@ Pag 851 <br>
 * [Free Electronics books and software](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
 * [Talking Electronics](http://www.talkingelectronics.com/te_interactive_index.html)
 * [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+* [Antenna-Theory](http://antenna-theory.com/)
 * [Eloquent Arduino - Machine Learning for microcontrollers blog](https://eloquentarduino.github.io/)
 
 ## Youtube Channels
