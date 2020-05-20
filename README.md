@@ -381,7 +381,7 @@ Pag 851 <br>
 * [Free Electronics books and software](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
 * [Talking Electronics](http://www.talkingelectronics.com/te_interactive_index.html)
 * [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-* [Antenna-Theory](http://antenna-theory.com/)
+* [Antenna-Theory - Pete Bevelacqua](http://antenna-theory.com/)
 * [Eloquent Arduino - Machine Learning for microcontrollers blog](https://eloquentarduino.github.io/)
 
 ## Youtube Channels
@@ -406,6 +406,9 @@ Pag 851 <br>
 * Oscilloscope – 2 channels 50MHz
 * Wave Form generator
 * Logical analyzer (if possible)   
+
+## Selected Videos on the tenacity to make a complex electronic product when you don't even know how blink an LED.
+* [Pete Bevelacqua - How I learned to stop blinking LEDs and make a product](https://www.youtube.com/watch?v=HUAEG3R3qW4)
 
 ## Selected videos of analog electronics
 
