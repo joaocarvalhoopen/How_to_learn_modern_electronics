@@ -400,18 +400,21 @@ Pag 851 <br>
 * [EEVBlog forum](https://www.eevblog.com/forum/)
 
 ## Electronic Equipment
-* DMM
+* Two Handheld DMM (to measure voltage and current at the same time)
 * Soldering iron or station
 * Two power supplies
-* Oscilloscope – 2 channels 50MHz
+* Oscilloscope – 2 or 4 channels 100MHz
+* [How NOT To Blow Up Your Oscilloscope!](https://www.youtube.com/watch?v=xaELqAo4kkQ)
 * Wave Form generator
-* Logical analyzer (if possible)   
+* Logical analyzer (if possible)
+* Spectrum Analyzer (nice but expensive gear)   
 
 ## Selected Videos on the tenacity to make a complex electronic product when you don't even know how blink an LED.
 * [Pete Bevelacqua - How I learned to stop blinking LEDs and make a product](https://www.youtube.com/watch?v=HUAEG3R3qW4)
 
 ## Selected videos of analog electronics
 
+* [Why Learn Basic Electronics?](https://www.youtube.com/watch?v=zyuRcsM0gjI)
 * [Electricity & Magnetism - The Learning Circuit](https://www.youtube.com/watch?v=F_KXUIZebCc&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=28)
 * [Resistors - The Learning Circuit](https://www.youtube.com/watch?v=3MkWZ38WY5U&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=46)
 * [Reading Resistor Chart Values - The Learning Circuit](https://www.youtube.com/watch?v=BRHn8Z2P9y8&list=PLwO8CTSLTkii9S_vhEOsyJ17RI3jjBZ95&index=42)
@@ -453,6 +456,11 @@ Pag 851 <br>
 * [Video - 417 Build an OpAmp - part 7 - Spice modeling the DIY Op-Amp](https://www.youtube.com/watch?v=MsFkJTpsgdI)
 * This video explains the Class B and AB of a Push and Pull and other type of class B and AB amplifier. <br>
   [Video - 271 two types of class B amplifiers](https://www.youtube.com/watch?v=slIOOJqZ3nw)
+
+## Selected videos on RF
+
+* [Phase Locked Loop Tutorial - PLL Basics](https://www.youtube.com/watch?v=A9qt0JYdvFU)
+* [PLL Phase Locked Loop Tutorial & Primer - Series](https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php)
 
 ## Selected videos of STM32 Micro-Controller programming
 
