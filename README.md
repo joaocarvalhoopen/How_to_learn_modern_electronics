@@ -400,6 +400,7 @@ Pag 851 <br>
 * [EEVBlog forum](https://www.eevblog.com/forum/)
 
 ## Electronic Equipment
+
 * Two Handheld DMM (to measure voltage and current at the same time)
 * Soldering iron or station
 * Two power supplies
@@ -408,6 +409,49 @@ Pag 851 <br>
 * Wave Form generator
 * Logical analyzer (if possible)
 * Spectrum Analyzer (nice but expensive gear)   
+
+## Selected articles from Magazine Nuts and Volts
+
+* [Resistors - Types and applciations](https://www.nutsvolts.com/magazine/article/resistors_types_and_applications)
+* [Capacitors - The family tree](https://www.nutsvolts.com/magazine/article/capacitors_the_family_tree)
+* [Winding single-layer air coils](https://www.nutsvolts.com/questions-and-answers/winding-single-layer-air-coils)
+* [The story of the transistor](https://www.nutsvolts.com/magazine/article/the-story-of-the-transistor)
+* [Bipolar transistor cookbook - Part 1](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_1)
+* [Bipolar transistor cookbook - Part 2](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_2)
+* [Bipolar transistor cookbook - Part 3](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_3)
+* [Bipolar transistor cookbook - Part 4](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_4)
+* [Bipolar transistor cookbook - Part 5](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_5)
+* [Bipolar transistor cookbook - Part 6](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_6)
+* [Bipolar transistor cookbook - Part 7](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_7)
+* [Bipolar transistor cookbook - Part 8](https://www.nutsvolts.com/magazine/article/bipolar_transistor_cookbook_part_8)
+* [How to use a transistor as a switch](https://www.nutsvolts.com/magazine/article/may2015_Secura)
+* [The field effect transistor](https://www.nutsvolts.com/magazine/article/the_field_effect_transistor)
+* [FET principles and circuits - Part 1](https://www.nutsvolts.com/magazine/article/fet_principles_and_circuits_part_1)
+* [FET principles and circuits - Part 2](https://www.nutsvolts.com/magazine/article/fet_principles_and_circuits_part_2)
+* [FET principles and circuits - Part 3](https://www.nutsvolts.com/magazine/article/fet_principles_and_circuits_part_3)
+* [FET principles and circuits - Part 4](https://www.nutsvolts.com/magazine/article/fet_principles_and_circuits_part_4)
+* [Power MOSFETs - Part 1](https://www.nutsvolts.com/magazine/article/power_mosfets)
+* [Power MOSFETs - Part 2](https://www.nutsvolts.com/magazine/article/power_mosfets_part_2)
+* [TRIAC principles and circuits - Part 1](https://www.nutsvolts.com/magazine/article/triac_principles_and_circuits_part_1)
+* [TRIAC principles and circuits - Part 2](https://www.nutsvolts.com/magazine/article/triac_principles_and_circuits_part_2)
+* [OpAmp cookbook - Part 1](https://www.nutsvolts.com/magazine/article/op-amp-cookbook)
+* [OpAmp cookbook - Part 2](https://www.nutsvolts.com/magazine/article/op-amp-cookbook-part-2)
+* [OpAmp cookbook - Part 3](https://www.nutsvolts.com/magazine/article/op-amp-cookbook-part-3)
+* [OpAmp cookbook - Part 4](https://www.nutsvolts.com/magazine/article/op-amp-cookbook-part-4)
+* [Oscilators](https://www.nutsvolts.com/magazine/article/march2015_HamWorkbench)
+* [RF oscilators](https://www.nutsvolts.com/magazine/article/may2015_HamWorkbench)
+* [Seven common ways to generate a sine wave](https://www.nutsvolts.com/magazine/article/seven-common-ways-to-generate-a-sine-wave)
+* [Filter basics - Stop, block, and roll off](https://www.nutsvolts.com/magazine/article/filter-basics-stop-block-and-rolloff)
+* [Filter design software](https://www.nutsvolts.com/magazine/article/filter-design-software)
+* [Smith chart fundamentals](https://www.nutsvolts.com/magazine/article/smith_chart_fundamentals)
+* [The discovery of radio waves](https://www.nutsvolts.com/magazine/article/the-discovery-of-radio-waves)
+* [Making a modern radio](https://www.nutsvolts.com/magazine/article/june2013_OpenCommunication)
+* [How phases array antennas work](https://www.nutsvolts.com/magazine/article/how-phased-array-antennas-work)
+* [Radar and electronic warfare fundamentals](https://www.nutsvolts.com/magazine/article/radar_and_electronic_warfare_fundamentals)
+* [Understanding digital logic ICs - Part 1](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_1)
+* [Understanding digital logic ICs - Part 2](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_2)
+* [Understanding digital logic ICs - Part 3](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_3)
+* [Understanding digital logic ICs - Part 4](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_4)
 
 ## Selected Videos on the tenacity to make a complex electronic product when you don't even know how blink an LED.
 * [Pete Bevelacqua - How I learned to stop blinking LEDs and make a product](https://www.youtube.com/watch?v=HUAEG3R3qW4)
