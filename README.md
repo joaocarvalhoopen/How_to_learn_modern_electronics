@@ -410,7 +410,7 @@ Pag 851 <br>
 * Logical analyzer (if possible)
 * Spectrum Analyzer (nice but expensive gear)   
 
-## Selected articles from Magazine Nuts and Volts
+## Selected articles from the Magazine Nuts and Volts
 
 * [Resistors - Types and applciations](https://www.nutsvolts.com/magazine/article/resistors_types_and_applications)
 * [Capacitors - The family tree](https://www.nutsvolts.com/magazine/article/capacitors_the_family_tree)
