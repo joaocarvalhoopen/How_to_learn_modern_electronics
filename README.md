@@ -534,6 +534,7 @@ Pag 851 <br>
 
 ## Selected videos on RF
 
+* [Rapid Prototyping RF Filters with Tape and QUCS - Incredible](https://www.youtube.com/watch?v=drwGvATLNaw)
 * [Phase Locked Loop Tutorial - PLL Basics](https://www.youtube.com/watch?v=A9qt0JYdvFU)
 * [PLL Phase Locked Loop Tutorial & Primer - Series](https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php)
 
