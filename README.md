@@ -65,6 +65,21 @@ by Colin Mitchell<br>
 Pag. 778    Price Free online <br>
 [book](http://www.talkingelectronics.com/Download%20eBooks/Download%20eBooks.html)<br>
 
+**Grob's Basic Electronics 12th Edition**<br>
+by Mitchel Schultz<br>
+Pag. 1264<br>
+<br>
+
+**Electronic Principles 8th Edition**<br>
+by Albert Malvino, David Bates<br>
+Pag. 1120<br>
+<br>
+
+**Fundamentals of Microelectronics 2nd Edition**<br>
+by Behzad Razavi<br>
+Pag. 928<br>
+<br>
+
 ### Going deeper into the rabbit hole in electronics.
 **The Art of Electronics 3th Edition**<br>
 by Paul Horowitz, Winfield Hill<br>
@@ -84,6 +99,11 @@ Pag. 1150 <br>
 **Electronic Circuits: Handbook for Design and Application, 2º Edition**<br>
 by Ulrich Tietze<br>
 Pag. 1543 <br>
+<br>
+
+**Microelectronic Circuits 8th Edition**<br>
+by Adel S. Sedra, Kenneth C. (KC) Smith, Tony Chan Carusone, Vincent Gaudet<br>
+Pag. 1296 <br>
 <br>
 
 ### Power electronics
@@ -171,6 +191,11 @@ Pag. 752 <br>
 **Planar Microwave Engineering: A Practical Guide to Theory, Measurement, and Circuits**<br>
 by Thomas H. Lee<br>
 Pag. 882 <br>
+<br>
+
+**RF Microelectronics 2nd Edition**<br>
+by Behzad Razavi<br>
+Pag. 916<br>
 <br>
 
 ### Antenna design
@@ -453,7 +478,13 @@ Pag 851 <br>
 * [Understanding digital logic ICs - Part 3](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_3)
 * [Understanding digital logic ICs - Part 4](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_4)
 
+## Selected articles on RF
+
+* [Really good articles - RF Technical Articles - YO3DAC - VA3IUL - Iulian Rosu](https://www.qsl.net/va3iul/)
+
+
 ## Selected Videos on the tenacity to make a complex electronic product when you don't even know how blink an LED.
+
 * [Pete Bevelacqua - How I learned to stop blinking LEDs and make a product](https://www.youtube.com/watch?v=HUAEG3R3qW4)
 
 ## Selected videos of analog electronics
@@ -545,6 +576,11 @@ Pag 851 <br>
 * [Intro to TensorFlow Lite Part 1 - Wake Word Feature Extraction](https://www.youtube.com/watch?v=0fn7pj7Dutc)
 * [Intro to TensorFlow Lite Part 2 - Speech Recognition Model Training](https://www.youtube.com/watch?v=yv_WVwr6OkI)
 * [Intro to TensorFlow Lite Part 3 - Speech Recognition on Raspberry Pi](https://www.youtube.com/watch?v=8-vl9bNY9aI)
+
+## Selected videos showing all the steps in KiCAD to design a PCB for STM32 with RF and USB.
+
+* [KiCad STM32 Hardware Design and JLCPCB Assembly](https://www.youtube.com/watch?v=t5phi3nT8OU)
+* [KiCad STM32 - RF - USB Hardware Design](https://www.youtube.com/watch?v=14_jh3nLSsU)
 
 ## Online Courses
 
