@@ -435,7 +435,7 @@ Pag 851 <br>
 * Logical analyzer (if possible)
 * Spectrum Analyzer (nice but expensive gear)   
 
-## Selected articles from the Magazine Nuts and Volts
+## Selected deeper articles from the Magazine Nuts and Volts
 
 * [Resistors - Types and applciations](https://www.nutsvolts.com/magazine/article/resistors_types_and_applications)
 * [Capacitors - The family tree](https://www.nutsvolts.com/magazine/article/capacitors_the_family_tree)
@@ -478,7 +478,7 @@ Pag 851 <br>
 * [Understanding digital logic ICs - Part 3](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_3)
 * [Understanding digital logic ICs - Part 4](https://www.nutsvolts.com/magazine/article/understanding_digital_logic_ics_part_4)
 
-## Selected articles on RF
+## Selected deeper articles on RF
 
 * [Really good articles - RF Technical Articles - YO3DAC - VA3IUL - Iulian Rosu](https://www.qsl.net/va3iul/)
 
@@ -583,7 +583,146 @@ Pag 851 <br>
 * [KiCad STM32 Hardware Design and JLCPCB Assembly](https://www.youtube.com/watch?v=t5phi3nT8OU)
 * [KiCad STM32 - RF - USB Hardware Design](https://www.youtube.com/watch?v=14_jh3nLSsU)
 
-## Online Courses
+
+# Deeper videos on analog electronics design with math calculations
+
+## Diodes and Transistors
+
+* [7. Breadboards or Protoboards](https://www.youtube.com/watch?v=oa6oo1PFHMI)
+* [18. Semiconductor and Diode Basics](https://www.youtube.com/watch?v=w1tR0hgE1WE&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm)
+* [19. Half-Wave Rectifiers Explained](https://www.youtube.com/watch?v=Nk08a4UloPo&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=2)
+* [20. Full Wave Rectifier Using A Center-Tapped Transformer](https://www.youtube.com/watch?v=LU9dnI8piRQ&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=3)
+* [21. Diode Bridge Rectifiers](https://www.youtube.com/watch?v=Cs_k8ixAo9o&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=4)
+* [22. Zener Diodes](https://www.youtube.com/watch?v=et3y52bJoAg&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=5)
+* [23. Three Terminal Linear Voltage Regulators](https://www.youtube.com/watch?v=MDWiZ1IPwTc)
+* [24. Varactors](https://www.youtube.com/watch?v=YhqDLJst4F8&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=6)
+* [147. w2aew - Basics of Varactor Diodes - Voltage Controlled Oscillator VCO Example](https://www.youtube.com/watch?v=icw8terKP-M)
+* [302. w2aew - Back to Basics: How to match diodes - measurement setups to find diodes that are matched](https://www.youtube.com/watch?v=hYyzq4671nI)
+* [25. An Introduction to Bipolar Junction Transistors - BJTs](https://www.youtube.com/watch?v=gBbFA7rgq0Q&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=17)
+* [26. Base Bias vs Voltage Divider Bias](https://www.youtube.com/watch?v=oF_VDtF7ptg&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=18)
+* [27. Reading Transistor Datasheets](https://www.youtube.com/watch?v=Sq8EzHZgQvs)
+* [28. More on Voltage Divider Biasing](https://www.youtube.com/watch?v=rrp81VpFUd4)
+* [29. Common Emitter Circuits](https://www.youtube.com/watch?v=EoQiy--39sY&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=7)
+* [31. Common Base Amplifiers](https://www.youtube.com/watch?v=oci80Csr1zk&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=9)
+* [32. Multistage Transistor Amplifiers](https://www.youtube.com/watch?v=FbdZ46VdTjE&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=10)
+* [33. Class A Amplifier Efficiency](https://www.youtube.com/watch?v=h43_n-rmPOo&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=11)
+* [34. Transformer Coupled Class A Amplifiers](https://www.youtube.com/watch?v=YTYLGABFl5s&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=12)
+* [35. Class B and Class AB Amplifiers](https://www.youtube.com/watch?v=5IIgvR7t1wc&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=13)
+* [36. The Darlington Pair and Sziklai Pair](https://www.youtube.com/watch?v=0uE9yfCDjF0&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=14)
+* [37. Class C Amplifiers](https://www.youtube.com/watch?v=62PdgE07EZ8&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=15)
+* [38. Class D Amplifiers](https://www.youtube.com/watch?v=OYlDcBLtHzE&list=PLveP8oiH14b7M_9e0kdOaFuwbPnzwEQdm&index=16)
+* [47. Negative Feedback and Total Harmonic Distortion](https://www.youtube.com/watch?v=vuOhBO_js4A)
+* [54. Cascode Amplifiers and the Miller Effect](https://www.youtube.com/watch?v=skkjrGJ5Vdc)
+* [55. Differential Amplifiers](https://www.youtube.com/watch?v=blHGlfIfUAI)
+* [79. Some Problems With This Current Mirror](https://www.youtube.com/watch?v=BvLNb1Kcc4U)
+* [EEVBlog 1116 - How to Remove Power Supply Ripple](https://www.youtube.com/watch?v=wopmEyZKnYo)
+* [281. w2aew - Bipolar Transistor Switching Time Measurement](https://www.youtube.com/watch?v=XgSKLsWAWGs)
+* [138. w2aew - How to Measure Output Impedance](https://www.youtube.com/watch?v=ieAhBejHe2M)
+* [191. w2aew - Beware of test equipment loading effects. Learn from my error](https://www.youtube.com/watch?v=JbCI4Lsnqho)
+* [131. w2aew - How to test transistors - NPN and PNP bipolar junction transistors, BJTs](https://www.youtube.com/watch?v=qM7_h8my8eA)
+* [232. w2aew - More Circuit Fun: Simple transistor curve tracer using Stairstep generator circuit](https://www.youtube.com/watch?v=ZOLLoa2fH24)
+* [49. w2aew - Simple Component Tester using Oscilloscope - Octopus Curve Tracer](https://www.youtube.com/watch?v=Gwo3pEH7hUE)
+
+## JFETs and MOSFETs
+
+* [39. Junction Field Effect Transistors - An Introduction](https://www.youtube.com/watch?v=PAsQYiWP7sg&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS)
+* [40. JFET Gate Bias and Self Bias](https://www.youtube.com/watch?v=8c68j0sCuD8&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=2)
+* [41. JFET Voltage Divider Bias](https://www.youtube.com/watch?v=-Lt4whiliPo&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=3)
+* [42. JFETs as Variable Resistors](https://www.youtube.com/watch?v=ycbg-vgt6ec&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=4)
+* [43. FET Common Source Amplifiers](https://www.youtube.com/watch?v=Z86n3mOGM-Q&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=5)
+* [44. JFET Common Gate Amplifiers](https://www.youtube.com/watch?v=lSrjFkhoFOY&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=6)
+* [45. JFET Common Drain Amplifier](https://www.youtube.com/watch?v=ha79AfmSASI&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=7)
+* [46. D-Type Mosfets](https://www.youtube.com/watch?v=v8zRvYQl7AU&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=8)
+* [48. A Multistage JFET Amplifier](https://www.youtube.com/watch?v=akc9vYgckx4&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=9)
+* [49. Enhancement Mode MOSFETS](https://www.youtube.com/watch?v=cWRRyrKfUCw&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=10)
+* [50. E-Mosfet Applications](https://www.youtube.com/watch?v=yOuoI0Y7gto&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=11)
+* [51. D Type MOSFET Applications](https://www.youtube.com/watch?v=0mR7J5AvdKM&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS&index=12)
+* [56. Combination FET and BJT Circuit - BIFET](https://www.youtube.com/watch?v=WktuQL8QvVE)
+* [132. w2aew - How to test MOSFETs with a DMM - a few methods](https://www.youtube.com/watch?v=gloikp9t2dA&list=RDCMUCiqd3GLTluk2s_IBt7p_LjA&index=7)
+
+## Thyristors
+
+* [52. Thyristors](https://www.youtube.com/watch?v=rJGCAGVCiig&list=PLveP8oiH14b7DMC631hddiTFIKg7Y33rK)
+* [53. UJTs and PUTs](https://www.youtube.com/watch?v=BoDWjhc5UAA&list=PLveP8oiH14b7DMC631hddiTFIKg7Y33rK&index=2)
+* [121. w2aew - Basics of SCRs and some circuit fun - device and circuit tutorial](https://www.youtube.com/watch?v=lSqCiCc7jQc)
+
+## Op Amp Basics
+
+* [EEVblog 600 - OpAmps Tutorial - What is an Operational Amplifier](https://www.youtube.com/watch?v=7FYHt5XviKc)
+* [EEVblog 859 - Bypass Capacitor Tutorial](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
+* [55. Differential Amplifiers](https://www.youtube.com/watch?v=blHGlfIfUAI)
+* [57. Op Amp Basics Part 1](https://www.youtube.com/watch?v=TfNzO5wfRDc&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD)
+* [58. OP Amp Basics Part 2](https://www.youtube.com/watch?v=VYwYhFDmiWE&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=2)
+* [59. Op Amp Basics Part 3 - Inverting and Non-Inverting Op Amps](https://www.youtube.com/watch?v=q-oz6aBAtFw&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=3)
+* [60. Op Amp Basics Part 4 - Impedance - Bandwidth and Gain](https://www.youtube.com/watch?v=TbJy5K7NsYg&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=4) 
+* [61. Summing Amplifiers](https://www.youtube.com/watch?v=1JVC95GLEbI&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=5)
+* [62. Op Amps as Comparators](https://www.youtube.com/watch?v=6EsDwUXxY7c&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=6)
+* [63. Op Amp Output Bounding](https://www.youtube.com/watch?v=j5JHdsnA7XA&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=7)
+* [64. Integrators](https://www.youtube.com/watch?v=pX0gnFnjiQI&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=8)
+* [65. Differentiators](https://www.youtube.com/watch?v=jg61SQ6bjFI&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=9)
+
+## Active filters
+* [66. Low Pass Active Filters](https://www.youtube.com/watch?v=FGbm4HUzUwk&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=10)
+* [67. Active Band-pass Filters](https://www.youtube.com/watch?v=-TFiLf-iGjs)
+* [68. Band-Stop Filters](https://www.youtube.com/watch?v=APCB8t5uyjw&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=11)
+* [69. Twin T Notch Filter](https://www.youtube.com/watch?v=l8Gacd3Oido&list=PLveP8oiH14b5VUTyMnWS6IsRZVKIO2KkD&index=13)
+
+## Oscilators and RF
+
+* [90. w2aew - Measure Capacitors and Inductors with an Oscilloscope and some basic parts](https://www.youtube.com/watch?v=74fz9iwZ_sM&list=RDCMUCiqd3GLTluk2s_IBt7p_LjA&index=5)
+* [100. w2aew - Capacitor self-resonance measured with an oscilloscope and signal generator - how to tutorial](https://www.youtube.com/watch?v=C3wYMZ_cjdQ)
+* [135. w2aew - Measure Capacitor ESR with an Oscilloscope and Function Generator](https://www.youtube.com/watch?v=115erzCCxgE)
+* [199. w2aew - Measuring coil inductance and IF transformer resonant frequency](https://www.youtube.com/watch?v=Ff5xOENID7w)
+* [55. w2aew - Back to Basics: Tutorial on LC Resonant Circuits](https://www.youtube.com/watch?v=hqhV50852jA)
+* [84. w2aew - Basics of Ferrite Beads - Filters - EMI Suppression - Parasitic oscillation suppression - Tutorial](https://www.youtube.com/watch?v=74fz9iwZ_sM&list=RDCMUCiqd3GLTluk2s_IBt7p_LjA&index=5)
+* [70. Phase Shift Oscillators](https://www.youtube.com/watch?v=PN8iwDNj658)
+* [71. The Wien Bridge Oscillator](https://www.youtube.com/watch?v=ICweqRmZgQs)
+* [72. The Colpitts Oscillator - Part 1 - Op Amps](https://www.youtube.com/watch?v=3c5u_HRp8m8)
+* [73. Colpitts Oscillators Part 2 - Transistors](https://www.youtube.com/watch?v=BXcJxeEQo-M)
+* [74. Colpitts Oscillators Part 3 - Crystals](https://www.youtube.com/watch?v=dv3vuUM2cI0)
+* [75. How I learned to Love the Decibel](https://www.youtube.com/watch?v=fHelUXuZckk)
+* [260. w2aew - RF Diode Mixer LO Drive Level and Conversion Loss - 1dB Compression - Distortion](https://www.youtube.com/watch?v=GvadQpkZ8l0)
+* [76. Phase Locked Loops](https://www.youtube.com/watch?v=lT4SVnrdPkE)
+* [77. PLLs as Frequency Multipliers](https://www.youtube.com/watch?v=5by0os8RrFY)
+* [78. The PLL as a FM Demodulator](https://www.youtube.com/watch?v=j1_D704Mh3s)
+* [303. w2aew - What is a Pulse Counting FM Demodulator - Detector - Discriminator](https://www.youtube.com/watch?v=jQlN2fc7LJc)
+* [80. Elenco Radio Kit Unboxing](https://www.youtube.com/watch?v=hsiKwGARf9Y)
+* [82. AM Radio Basics - A Block Diagram](https://www.youtube.com/watch?v=b8Ny7XCyxio)
+* [83. Elenco Radio Kit IC Audio Amplifier](https://www.youtube.com/watch?v=4vKIQ1CRxLE) 
+* [81. Finding the Unknown Impedance of a RF Cable](https://www.youtube.com/watch?v=afDSE_ejTNk)
+* [161. w2aew - Circuit Fun: a simple RF detector or demodulator probe for DMM or scope](https://www.youtube.com/watch?v=C8SKiyJUAlU)
+* [181. w2aew - Basics of an RF Comb Generator - a tutorial](https://www.youtube.com/watch?v=km4_9r-5YdI)
+
+## Construction techniques
+
+* [129. w2aew - How to cut circuit board PCB material - a couple of favorite methods I use](https://www.youtube.com/watch?v=uBkPX_QhRI0)
+* [123. w2aew - Build a crystal oscillator from schematic thru prototype construction and testing - DIY](https://www.youtube.com/watch?v=blalAktxFoI)
+
+## Digital Fundamentals
+
+* [6. Digital Numbering Systems](https://www.youtube.com/watch?v=kMh8WujpwvY&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo)
+* [8. Logic Gates and How to Use a Breadboard](https://www.youtube.com/watch?v=_Y9ouwGL_GI&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=2)
+* [9. Boolean Algebra](https://www.youtube.com/watch?v=bOUEj68CeuY&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=3)
+* [10. Karnaugh - Vietch Mapping](https://www.youtube.com/watch?v=aQdhLiJZFug&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=4)
+* [11. Basic Debouncing Circuits and Clocks](https://www.youtube.com/watch?v=aebiyIg6fFw&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=5)
+* [12. Flip Flops and Latches](https://www.youtube.com/watch?v=eaf1XAxX_AY&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=6)
+* [13. Binary Counters and Shift Registers Using Flip Flops](https://www.youtube.com/watch?v=y30gbGiGCns&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=7)
+* [14. Binary Math - Addition and Subtraction](https://www.youtube.com/watch?v=z5kQoIjSBhM&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=8)
+* [15. Binary Adders and Subtractors](https://www.youtube.com/watch?v=k9rqMj5JDY0&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=9)
+* [16. More Binary Counters](https://www.youtube.com/watch?v=ZbdgfsznLys&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=10)
+* [17. Liquid Crystal Displays and Drivers](https://www.youtube.com/watch?v=lkEJzrVwmyY&list=PLveP8oiH14b7qj-qv2zo6rqa5lbe1JnEo&index=11)
+
+## Oscilloscopes
+
+* [w2aew - NJARC Oscilloscope School a.k.a. Scopes For Dopes](https://www.youtube.com/watch?v=8ZKMrzTGxLQ&list=PL746BF38BC2E068E0)
+* [1. Oscilloscope Basics Part 1](https://www.youtube.com/watch?v=j0l8k_pPYnM)
+* [2. Oscilloscope Basics Part 2](https://www.youtube.com/watch?v=Sp41vzKCs5k)
+* [3. Measuring Rise Time and Fall Time with an Oscilloscope](https://www.youtube.com/watch?v=o9enHZ7mgpc)
+* [4. Lissajous Curves](https://www.youtube.com/watch?v=SXz762vgILk)
+* [5. Oscilloscope Probes](https://www.youtube.com/watch?v=l07nZV2bclo)
+
+
+# Online Courses
 
 ### Embedded systems development courses
 
