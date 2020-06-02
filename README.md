@@ -137,6 +137,12 @@ by Ron Schmitt<br>
 Pag 410 <br> 
 <br>
 
+**Radio Hobbyist’s Designbook** <br>
+by Leonard H. Anderson <br>
+K6LHA <br>
+[Book](http://www.hanssummers.com/k6lha-design-book.html) <br>
+<br>
+
 **Fundamentals of Microwave and RF Design 3th Edition**<br>
 by Michael Steer<br>
 Pag 229, Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
