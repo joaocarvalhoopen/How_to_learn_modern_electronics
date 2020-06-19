@@ -330,6 +330,35 @@ by Richard G. Lyons<br>
 Pag 954 <br>
 <br>
 
+**Mathematics of the discrete fourier transform (DFT) with audio applications, 2th Edition**<br>
+by Julius O. Smith III <br>
+Pag 322 <br>
+[book](https://ccrma.stanford.edu/~jos/mdft/) <br>
+<br>
+
+**Introduction to digital filters with audio applications** <br>
+by Julius O. Smith III <br>
+Pag 480 <br>
+[book](https://ccrma.stanford.edu/~jos/filters/) <br>
+<br> 
+
+**Physical audio signal processing for virtual musical instruments and audio effects** <br>
+by Julius O. Smith III <br>
+Pag 826 <br>
+[book](https://ccrma.stanford.edu/~jos/pasp/) <br>
+<br>
+
+**Spectral audio signal processing** <br>
+by Julius O. Smith III <br>
+Pag 674 <br>
+[book](https://ccrma.stanford.edu/~jos/sasp/) <br>
+<br>
+
+**The Fast Fourier Transform FFT and its applications** <br>
+By E. Oran Brigham <br>
+Pag 448 <br>
+<br>
+
 ### Programming
 
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
@@ -391,6 +420,12 @@ Pag 504<br>
 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition**<br>
 by Aurélien Géron<br>
 Pag 851 <br>
+<br>
+
+**Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** <br>
+by Steven L. Brunton, J. Nathan Kutz <br>
+Pag 492 <br>
+[book](http://databookuw.com/databook.pdf) <br>
 <br>
 
 # Analog Devices Courseware and practical labs.
@@ -727,6 +762,12 @@ Pag 851 <br>
 * [4. Lissajous Curves](https://www.youtube.com/watch?v=SXz762vgILk)
 * [5. Oscilloscope Probes](https://www.youtube.com/watch?v=l07nZV2bclo)
 
+# Deeper videos on DSP - Digital Signal Processing
+
+* [Video Discrete Fourier Transform - Simple Step by Step](https://www.youtube.com/watch?v=mkGsMWi_j4Q)
+* [Video 3Blue1Brown - But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
+* [Video play list - Fourier Transform - DFT and FFT](https://www.youtube.com/playlist?list=PL7HEDXv3wHPNCKVActVkD-OL1C7deqHGC)
+* [Fourier Analysis 36 videos play list from Steve Brunton - with companion book](https://www.youtube.com/watch?v=jNC0jxb0OxE&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
 # Online Courses
 
