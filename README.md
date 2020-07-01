@@ -271,6 +271,11 @@ by Warren Gay<br>
 Pag 432 <br>
 <br>
 
+**Hands-On RTOS with Microcontrollers: Building real-time embedded systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools**<br>
+by Brian Amos<br>
+Pag 496 <br>
+<br>
+
 **Real-time Operating Systems Book 1: The Theory**<br>
 by Dr. Jim Cooling<br>
 Pag 296 <br>
@@ -330,6 +335,12 @@ by Richard G. Lyons<br>
 Pag 954 <br>
 <br>
 
+**Introduction to Signal Processing**<br>
+by Sophocles J. Orfanidis <br>
+Pag 795 <br>
+[book](https://www.ece.rutgers.edu/~orfanidi/intro2sp/) <br>
+<br>
+
 **Mathematics of the discrete fourier transform (DFT) with audio applications, 2th Edition**<br>
 by Julius O. Smith III <br>
 Pag 322 <br>
@@ -366,14 +377,30 @@ by Eric Matthes<br>
 Pag 544 <br>
 <br>
 
-**C Programming- A Modern Approach, 2nd Edition**<br>
+**C Programming - A Modern Approach, 2nd Edition**<br>
 by K. N. King<br>
-Pag 832  <br>
+Pag 832 <br>
+<br>
+
+**Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C**<br>
+by Kamran Amini<br>
+Pag 822 <br>
+<br>
+
+**Beginning C++17: From Novice to Professional 5th Edition**<br>
+by Ivor Horton, Peter Van Weert<br>
+Pag 799 <br>
 <br>
 
 **Programming: Principles and Practice Using C++ 2nd Edition**<br>
 by Bjarne Stroustrup<br>
 Pag 1312 <br>
+<br>
+
+**Operating Systems: Three Easy Pieces**<br>
+Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau<br>
+Pag 714 <br>
+www.ostep.com <br>
 <br>
 
 **The Linux Programming Interface: A Linux and UNIX System Programming Handbook**<br>
@@ -771,7 +798,7 @@ Pag 492 <br>
 
 # Online Courses
 
-### Embedded systems development courses
+### Embedded systems development courses **ESP32**
 
 * **Learn ESP32 with Arduino IDE** <br>
   I took this course and I recommend it, because it is a good course. It's an extensive course, good for the beginner and not so beginners. It covers in many, many projects all the micro-controller programming and the IoT - Internet Of Things stuff with the Arduino IDE. The author is constantly adding material to the course. I have experience with several different micro-controllers and in my opinion, the ESP32 and the future ESP32-S02 are good safe bet's to learn micro-controllers in general and IoT in particular. Also they are low cost and have large range of advanced features. <br>
@@ -781,7 +808,42 @@ Pag 492 <br>
   I took this course and I recommend it highly, this is an excellent course. This is a course for a more professional or more in depth persons, for the ones that really need to know what's under the hood and want to make use of every feature, capacity and possibility that the incredible ESP32 provides. The other kind of person that I can imagine doing this course is if you are already a developer for example in PC or web context, you will rapidly understand all the details and understand all the micro-controller power that the author explains to you. The framework used (ESP-IDF) is the one made by ExpressIF, the enterprise that makes the ESP32. The knowledge that you will obtain from this course is really profound, although the author goes to extensive length to explain the foundations that you need even in more advanced C programming, it is for people that already used a micro-controller before, be it a simple Arduino Uno board, or a more professional one. But I would like to say clearly that, the knowledge that you obtain from this course is profound. In my opinion it gives you the tools, it enables you to work professional on this field developing embedded systems software with the ESP32 including IoT. The course already as 12 hours, with all the code accessible in GitHub, but it's author is currently still adding content. It also includes advanced sections on freeRTOS. It uses in a very intelligent and useful way the free Visual Studio Code Editor in Windows and Linux, even allowing debugging in ESP32 inside Visual Studio Code with a cheap 10 dollars JTAG addon board. <br>
   [Learn ESP32 The ESP-IDF](https://www.learnesp32.com/)
 
-### PCB design courses
+
+### Embedded systems development courses **STM32**
+
+* **Microcontroller Embedded C Programming: absolute beginners** <br>
+  Foundation course on Embedded C programming using STM32 Microcontroller. <br>
+  by FastBit on Udemy
+
+* **Mastering Microcontroller with Embedded Driver Development - MCU 0** <br>
+  Learn bare metal driver development systems using Embedded C: Writing drivers for STM32 GPIO,I2C,SPI,USART from scratch <br>
+  by FastBit on Udemy
+
+* **Mastering Microcontroller : TIMERS, PWM, CAN, RTC,LOW POWER - MCU 1** <br>
+  Learn STM32 TIMERS, CAN,RTC, PWM,LOW POWER embedded systems and program them using STM32 Device HAL APIs step by step <br>
+  by FastBit on Udemy
+
+* **Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging - MCU 2** <br>
+  Learn Running/Porting FreeRTOS Real Time Operating System on STM32F4x and ARM cortex M based Mircocontrollers <br>
+  by FastBit on Udemy
+
+* **ARM Cortex M Microcontroller DMA Programming Demystified** <br>
+  Direct Memory Access Demystified with STM32 Peripherals (ADC, SRAM,UART,M2M,M2P,P2M) and Embedded C code Exercises <br>
+  by FastBit on Udemy
+
+* **STM32Fx Microcontroller Custom Bootloader Development** <br>
+  Learn fundamentals of Bootloader Development for your ARM Cortex Mx based STM32Fx Microcontroller <br>
+  by FastBit on Udemy
+
+
+### Embedded systems development courses on **Linux**
+
+* **Embedded Linux Step by Step using Beaglebone Black** <br>
+  Learn ARM Linux systems, Embedded Linux building blocks ,Busybox, Beaglebone interfacing Projects <br>
+  by FastBit on Udemy
+
+
+### **PCB** design courses
 
 * **KiCAD like a Pro** <br>
   I took this course and reed the book and I recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade. <br>
