@@ -458,7 +458,8 @@ Pag 492 <br>
 ### Algorithms
 
 **Wikipedia list of algorithms** <br>
-[https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+[https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) <br>
+<br>
 
 # Analog Devices Courseware and practical labs.
 * [Engineering Discovery](https://wiki.analog.com/university/courses/engineering_discovery)
