@@ -455,6 +455,11 @@ Pag 492 <br>
 [book](http://databookuw.com/databook.pdf) <br>
 <br>
 
+### Algorithms
+
+**Wikipedia list of algorithms** <br>
+[https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+
 # Analog Devices Courseware and practical labs.
 * [Engineering Discovery](https://wiki.analog.com/university/courses/engineering_discovery)
 * [Circuit I & II Lab Activities](https://wiki.analog.com/university/courses/alm1k/alm_circuits_lab_outline)
