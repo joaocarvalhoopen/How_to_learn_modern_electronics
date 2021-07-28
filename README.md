@@ -7,8 +7,14 @@ First of all basic electronics can be simple to understand, but to understand it
 ## Books
 I’m suggesting that you read the books from cover to cover and not only for reference.<br>
 <br>
-The first book that you should read is a cheap book but a very good one.<br>
+The two books that you should read first, are both cheap books but they are very good. You should read them in this order.<br>
 <br>
+
+**Getting Started in Electronics**<br>
+by Forrest M. Mims III<br>
+Pag. 128<br>
+<br>
+
 **Practical Electronics for Inventors, 4th Edition**<br>
 by Paul Scherz, Simon Monk<br>
 Pag. 1050 <br>
@@ -239,6 +245,11 @@ Pag 447 <br>
 
 ### Microcontrollers
 
+* How to learn modern **Embedded Systems** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
+<br>
+<br>
+
 **Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
 Pag. 166    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
@@ -372,6 +383,29 @@ Pag 448 <br>
 
 ### Programming
 
+* How to learn modern **Linux** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Linux](https://github.com/joaocarvalhoopen/How_to_learn_modern_Linux)
+
+* How to become dangerous in **Algorithms** <br>
+  [https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms](https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms)
+
+* Simple notes on the **C Programming Language** <br>
+  [https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language](https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language)
+
+* How to learn modern **C++** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus](https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus)
+
+* How to learn modern **Rust** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+
+* How to learn modern **Python** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Python](https://github.com/joaocarvalhoopen/How_to_learn_modern_Python)
+
+* How to learn modern **Machine Learning** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning](https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning)
+<br>
+<br>
+
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
 by Eric Matthes<br>
 Pag 544 <br>
@@ -414,6 +448,15 @@ Pag 680 <br>
 <br>
 
 ### Mathematics
+
+* How to learn **Mathematics** from the ground up <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up)
+
+* How to learn modern **Compressive Sensing** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Compressive_Sensing](https://github.com/joaocarvalhoopen/How_to_learn_modern_Compressive_Sensing)
+<br>
+<br>
+
 **Engineering Mathematics**<br>
 by Prof Anthony Croft, Dr Robert Davison<br>
 Pag 1024 <br>
@@ -425,6 +468,11 @@ Pag 924 <br>
 <br>
 
 ### Physics
+
+* How to learn **Physics** from the ground up <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up)
+<br>
+<br>
 
 **Advanced Physics For You**<br>
 by Keith Johnson , Simmone Hewett<br>
@@ -854,6 +902,14 @@ Pag 492 <br>
 * **KiCAD like a Pro** <br>
   I took this course and reed the book and I recommend it highly, this is an excellent course. There comes a time that every person that enter this field of electronics or embedded systems, will feel the need to make a professional looking board for the system that you design. When breadboard, soldering wires or simples pre-fabricated modules connected by wires, are not enough. That is the time to start learning about how to design a PCB's. Starting by drawing the schematic, to the design of the effective PCB, reaching out to a fabric to make you PCB and then assemble in your home or in the fabric with an assembly service. This course cover it all. KiCAD is a free open source tool that is of professional grade. <br>
   [KiCAD like a Pro](https://kicad.txplore.com/)
+
+
+
+# All my other guides
+
+* The links to all my guides are in: <br>
+  **Guides on Linux - Programming - Embedded - Electronics - Aeronautics** <br>
+  [https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
 
 
 ## Have fun!
