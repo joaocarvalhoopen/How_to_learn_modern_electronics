@@ -248,7 +248,6 @@ Pag 447 <br>
 * How to learn modern **Embedded Systems** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
 <br>
-<br>
 
 **Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
@@ -404,7 +403,6 @@ Pag 448 <br>
 * How to learn modern **Machine Learning** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning](https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning)
 <br>
-<br>
 
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
 by Eric Matthes<br>
@@ -455,7 +453,6 @@ Pag 680 <br>
 * How to learn modern **Compressive Sensing** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Compressive_Sensing](https://github.com/joaocarvalhoopen/How_to_learn_modern_Compressive_Sensing)
 <br>
-<br>
 
 **Engineering Mathematics**<br>
 by Prof Anthony Croft, Dr Robert Davison<br>
@@ -471,7 +468,6 @@ Pag 924 <br>
 
 * How to learn **Physics** from the ground up <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up)
-<br>
 <br>
 
 **Advanced Physics For You**<br>
