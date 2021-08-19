@@ -26,6 +26,10 @@ Pag 1280<br>
 **Note:** Study also the digital supplemental files.<br>
 <br>
 
+* **Most common Components in electronics**<br>
+  [https://github.com/joaocarvalhoopen/Most_common_components_in_electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)<br>
+<br>
+
 Now that you know a little bit about what electronics is in the majority of the fields that are connected to electronic circuits, you should try to delve a little deeper in each subject.<br>
 <br>
 
