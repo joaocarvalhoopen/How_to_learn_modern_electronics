@@ -1,115 +1,123 @@
 # How to learn modern electronics
 
 **A guide to the adventurer**<br>
-First of all basic electronics can be simple to understand, but to understand it deeply and see were the rabbit hole goes you have to do some serious kind of study. The plan to enlightenment has multiple parallel path’s, but books, internet info, youtube video channels and good forums constitute the main pillars.<br>
+First of all, basic electronics can be simple to understand, but to understand it deeply and see were the rabbit hole goes you have to do some serious kind of study. The plan to enlightenment has multiple parallel path’s, but books, internet info, youtube video channels and good forums constitute the main pillars.<br>
 <br>
 
 ## Books
 I’m suggesting that you read the books from cover to cover and not only for reference.<br>
 <br>
-The two books that you should read first, are both cheap books but they are very good. You should read them in this order.<br>
+The three books that you should read first, are cheap books but they are very good. You should read them in this order, they will give you a really good grasp of electronics and some of there most common applications. They are enthusiastic and bring the subject to life!<br>
 <br>
 
 **Getting Started in Electronics**<br>
 by Forrest M. Mims III<br>
-Pag. 128<br>
+Pag 128<br>
 <br>
 
 **Practical Electronics for Inventors, 4th Edition**<br>
 by Paul Scherz, Simon Monk<br>
-Pag. 1050 <br>
+Pag 1050 <br>
 <br>
+
+**ARRL Handbook 2021**<br>
+by ARRL Inc<br>
+Pag 1280<br>
+**Note:** Study also the digital supplemental files.<br>
+<br>
+
 Now that you know a little bit about what electronics is in the majority of the fields that are connected to electronic circuits, you should try to delve a little deeper in each subject.<br>
+<br>
 
 ### Circuit analysis you should read.
 
 **DC Electrical Circuit Analysis - A Practical Approach**<br>
 by James M. Fiore <br>
-Pag. 374   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+Pag 374   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
 <br>
 
 **AC Electrical Circuit Analysis - A Practical Approach**<br>
 by James M. Fiore <br>
-Pag. 422   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+Pag 422   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
 <br>
 
 **Workbook for DC Electrical Circuits**<br>
 by James M. Fiore<br>
-Pag. 128   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+Pag 128   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
 <br>
 
 **Workbook for AC Electrical Circuits** <br>
 by James M. Fiore<br>
-Pag. 159   Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+Pag 159   Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
 
 **Fundamentals of Electric Circuits 6th Edition** <br>
 by Charles K Alexander, Matthew Sadiku<br>
-Pag. 992 <br>
+Pag 992 <br>
 <br>
 
 ### Semiconductor devices and OpAmps
 
 **Semiconductor Devices: Theory & Application** <br>
 by James M. Fiore<br>
-Pag. 407    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
+Pag 407    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>
 <br>
 
 **Operational Amplifiers & Linear Integrated Circuits 3th Edition**<br>
 by James M. Fiore<br>
-Pag. 589    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
+Pag 589    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
 [book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
 <br>
 
 **Principles of Electronics**<br>
 by Colin Mitchell<br>
-Pag. 778    Price Free online <br>
+Pag 778    Price Free online <br>
 [book](http://www.talkingelectronics.com/Download%20eBooks/Download%20eBooks.html)<br>
 
 **Grob's Basic Electronics 12th Edition**<br>
 by Mitchel Schultz<br>
-Pag. 1264<br>
+Pag 1264<br>
 <br>
 
 **Electronic Principles 8th Edition**<br>
 by Albert Malvino, David Bates<br>
-Pag. 1120<br>
+Pag 1120<br>
 <br>
 
 **Fundamentals of Microelectronics 2nd Edition**<br>
 by Behzad Razavi<br>
-Pag. 928<br>
+Pag 928<br>
 <br>
 
 ### Going deeper into the rabbit hole in electronics.
 **The Art of Electronics 3th Edition**<br>
 by Paul Horowitz, Winfield Hill<br>
-Pag. 1220 <br>
+Pag 1220 <br>
 <br>
 
 **The Art of Electronics - The x Chapters**<br>
 by Paul Horowitz, Winfield Hill<br>
-Pag. 500 <br>
+Pag 500 <br>
 <br>
 
 **Learning the Art of Electronics - A Hands-On Lab Course 1st Edition**<br>
 by Thomas C. Hayes, Paul Horowitz<br>
-Pag. 1150 <br>
+Pag 1150 <br>
 <br>
 
 **Electronic Circuits: Handbook for Design and Application, 2º Edition**<br>
 by Ulrich Tietze<br>
-Pag. 1543 <br>
+Pag 1543 <br>
 <br>
 
 **Microelectronic Circuits 8th Edition**<br>
 by Adel S. Sedra, Kenneth C. (KC) Smith, Tony Chan Carusone, Vincent Gaudet<br>
-Pag. 1296 <br>
+Pag 1296 <br>
 <br>
 
 ### Power electronics
@@ -223,6 +231,7 @@ Pag. 1104 <br>
 <br>
 
 ### PCB Design
+
 **KiCad Like a Pro**<br>
 by Dr Peter Dalmaris<br>
 Pag 485 <br>
@@ -241,6 +250,130 @@ Pag 992 <br>
 **High Speed Digital Design - A Handbook of Black Magic**<br>
 by Howard W. Johnson, Martin Graham<br> 
 Pag 447 <br>
+<br>
+
+### SDR - Software Defined Radio
+
+**Software Receiver Design: Build your Own Digital Communication System in Five Easy Steps**<br>
+by C. Richard Johnson Jr, William A. Sethares, Andrew G. Klein<br>
+Pag 480<br>
+<br>
+
+**Software Defined Radio using MATLAB & Simulink and the RTL-SDR**<br>
+by Robert W Stewart, Kenneth W Barlee, Dale S W Atkinson<br>
+Pag 672<br>
+[book](https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html)<br>
+<br>
+
+**Wireless Communications from the Ground Up: An SDR Perspective**<br>
+by Qasim Chaudhari<br>
+Pag 828<br>
+<br>
+
+**Digital Signal Processing in Modern Communication Systems**<br>
+by Andreas Schwarzinger<br>
+Pag 398<br>
+<br>
+
+### Radio Astronomy
+
+**VLF - Very Low Frequency Observations**<br>
+[https://britastro.org/node/8791](https://britastro.org/node/8791)
+<br>
+
+**INSPIRE VLF-3 Rev #1C Receiver Kit**<br>
+ASSEMBLY INSTRUCTIONS and schematic<br>
+[https://theinspireproject.org/](https://theinspireproject.org/)<br>
+[https://theinspireproject.org/img/VLF3_Rev1C.pdf](https://theinspireproject.org/img/VLF3_Rev1C.pdf)<br>
+<br>
+
+**Fundamentals of Radio Astronomy: Observational Methods**<br>
+by Jonathan M. Marr, Ronald L. Snell, Stanley E. Kurt<br>
+Pag 368<br>
+<br>
+
+**Radio and Radar Astronomy Projects for Beginners 2nd Edition**<br>
+by Steven Arnold<br>
+Pag 332<br>
+<br>
+
+**An Introduction to Radio Astronomy 4rd Edition**<br>
+by Bernard F. Burke<br>
+Pag 540<br>
+<br>
+
+**The Physical Processes and Observing Techniques of Radio Astronomy: An Introduction**<br> 
+by Thomas G. Pannuti<br>
+Pag 548<br>
+<br>
+
+**The Radio Sky and How to Observe It 2010 Edition**<br>
+by Jeff Lashley<br>
+Pag 251<br>
+<br>
+
+**Interferometry and Synthesis in Radio Astronomy**<br>
+A. Richard Thompson, James M. Moran, George W. Swenson Jr.<br>
+Pag 918<br>
+[book](https://link.springer.com/book/10.1007/978-3-319-44431-4) <br>
+<br>
+
+### RADAR
+
+**Stimson's Introduction to Airborne Radar 3rd Edition**<br>
+by George W. Stimson, Hugh D. Griffiths, Christopher J. Baker, Dave Adamy<br>
+Pag 774<br>
+<br>
+
+**Principles of Modern Radar: Basic Principles Volume 1** <br>
+by Mark A. Richards, William A. Holm, James A. Scheer<br>
+Pag 960<br>
+<br>
+
+**Principles of Modern Radar: Advanced Radar Techniques and Applications Volume 2**<br>
+by William L. Melvin, James A. Scheer<br>
+Pag 960<br>
+<br>
+
+**Principles of Modern Radar: Radar Applications Volume 3**<br>
+by William L. Melvin, James A. Scheer<br>
+Pag 816<br>
+<br>
+
+**Spotlight Synthetic Aperture Radar: Signal Processing Algorithms**<br>
+by Walter G. Carrara , Ronald M. Majewski<br>
+Pag 554<br>
+<br>
+
+**Fundamentals of Radar Signal Processing, Second Edition 2nd Edition**<br>
+by Mark Richards<br>
+Pag 656<br>
+<br>
+
+**Small and Short-Range Radar Systems**<br>
+by Gregory L. Charvat<br>
+Pag 428<br>
+<br>
+
+**Video Course Site in Radar Systems Engineering**<br>
+Dr. Robert M. O'Donnell - Lecturer<br>
+[http://radar-course.org/](http://radar-course.org/)<br>
+<br>
+
+**Video Course - Introduction to Radar Systems Online by Robert M. O'Donnell**<br>
+[https://www.youtube.com/playlist?list=PLUJAYadtuizA8RC2Qk8LfmiWA56HZsk9y](https://www.youtube.com/playlist?list=PLUJAYadtuizA8RC2Qk8LfmiWA56HZsk9y)<br>
+<br>
+
+**Video Course - Radar Systems Engineering Course by Robert M. O'Donnell**<br>
+[https://www.youtube.com/playlist?list=PLNKgf4Cv_NZ1_fZt0bAJXAro6MlaTAEAU](https://www.youtube.com/playlist?list=PLNKgf4Cv_NZ1_fZt0bAJXAro6MlaTAEAU)<br>
+<br>
+
+**Video Course - Alberto Moreira ESA - SAR: Principles & Applications**<br>
+[http://www.esa.int/ESA_Multimedia/Videos/2013/07/SAR_Principles_Applications](http://www.esa.int/ESA_Multimedia/Videos/2013/07/SAR_Principles_Applications)<br>
+<br>
+
+**A Tutorial on Synthetic Aperture Radar - ESA**<br>
+[http://www2.geog.ucl.ac.uk/~mdisney/teaching/teachingNEW/3051/PPRS_7/esa_sar_tutorial.pdf](http://www2.geog.ucl.ac.uk/~mdisney/teaching/teachingNEW/3051/PPRS_7/esa_sar_tutorial.pdf)<br>
 <br>
 
 ### Microcontrollers
@@ -445,6 +578,10 @@ by Alberto Liberal de los Ríos<br>
 Pag 680 <br>
 <br>
 
+**Wikipedia list of algorithms** <br>
+[https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) <br>
+<br>
+
 ### Mathematics
 
 * How to learn **Mathematics** from the ground up <br>
@@ -499,11 +636,6 @@ Pag 492 <br>
 [book](http://databookuw.com/databook.pdf) <br>
 <br>
 
-### Algorithms
-
-**Wikipedia list of algorithms** <br>
-[https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) <br>
-<br>
 
 # Analog Devices Courseware and practical labs.
 * [Engineering Discovery](https://wiki.analog.com/university/courses/engineering_discovery)
