@@ -654,7 +654,7 @@ Pag 492 <br>
 * [EEVBlog](https://www.eevblog.com/)
 * [The Amp Hour Electronics Podcast](https://theamphour.com/)
 * [All about circuits](https://www.allaboutcircuits.com)
-* [KiCAD free PCB software](http://www.kicad-pcb.org/)
+* [KiCAD free PCB software](http://www.kicad.org/)
 * [LTSpice free simulation software](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [freeRTOS](https://www.freertos.org/)
 * [Free Electronics books and software](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
