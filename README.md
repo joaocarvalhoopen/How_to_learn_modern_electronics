@@ -517,6 +517,10 @@ By E. Oran Brigham <br>
 Pag 448 <br>
 <br>
 
+**Play List - 42 Audio Illusions & Phenomena -- Psychoacoustics** <br>
+[https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn](https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn)
+
+
 ### Programming
 
 * How to learn modern **Linux** <br>
