@@ -471,6 +471,20 @@ Pag 120 <br>
 
 ### DSP – Digital Signal Programming
 
+**Signals and Systems 2nd Ed** <br>
+by Alan Oppenheim, Alan Willsky, Hamid <br>
+Pag 1000 <br>
+<br>
+
+**Videos - Prof. Iain Explains** <br>
+[https://www.iaincollings.com/](https://www.iaincollings.com/) <br>
+<br>
+
+**Signals Systems and Inference** <br>
+by Alan Oppenheim, George Verghese <br>
+Pag 608 <br>
+<br>
+
 **The Scientist & Engineer's Guide to Digital Signal Processing**<br>
 by Steven W. Smith<br>
 Pag 626 Price Free on the net<br>
@@ -480,6 +494,11 @@ Pag 626 Price Free on the net<br>
 **Understanding Digital Signal Processing 3rd Edition**<br>
 by Richard G. Lyons<br>
 Pag 954 <br>
+<br>
+
+**Discrete-Time Signal Processing 3rd Ed** <br>
+by Alan Oppenheim, Ronald Schafer <br>
+Pag 1144 <br>
 <br>
 
 **Introduction to Signal Processing**<br>
@@ -517,9 +536,13 @@ By E. Oran Brigham <br>
 Pag 448 <br>
 <br>
 
-**Play List - 42 Audio Illusions & Phenomena -- Psychoacoustics** <br>
-[https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn](https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn)
+**Become an Audio Programmer** <br>
+[https://www.thewolfsound.com/](https://www.thewolfsound.com/) <br>
+<br>
 
+**Play List - 42 Audio Illusions & Phenomena -- Psychoacoustics** <br>
+[https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn](https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn) <br>
+<br>
 
 ### Programming
 
