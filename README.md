@@ -20,9 +20,9 @@ by Paul Scherz, Simon Monk<br>
 Pag 1050 <br>
 <br>
 
-**ARRL Handbook 2021**<br>
+**ARRL Handbook 2022**<br>
 by ARRL Inc<br>
-Pag 1280<br>
+Pag 1280 separate in several volumes for easy reading<br>
 **Note:** Study also the digital supplemental files.<br>
 <br>
 
@@ -38,25 +38,25 @@ Now that you know a little bit about what electronics is in the majority of the 
 **DC Electrical Circuit Analysis - A Practical Approach**<br>
 by James M. Fiore <br>
 Pag 374   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
+[book and videos](http://www.dissidents.com/books.htm) <br>   
 <br>
 
 **AC Electrical Circuit Analysis - A Practical Approach**<br>
 by James M. Fiore <br>
 Pag 422   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
+[book and videos](http://www.dissidents.com/books.htm) <br>   
 <br>
 
 **Workbook for DC Electrical Circuits**<br>
 by James M. Fiore<br>
 Pag 128   Price: Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>   
+[book and videos](http://www.dissidents.com/books.htm) <br>   
 <br>
 
 **Workbook for AC Electrical Circuits** <br>
 by James M. Fiore<br>
 Pag 159   Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
+[book and videos](http://www.dissidents.com/books.htm)<br>
 <br>
 
 **Fundamentals of Electric Circuits 6th Edition** <br>
@@ -69,23 +69,23 @@ Pag 992 <br>
 **Semiconductor Devices: Theory & Application** <br>
 by James M. Fiore<br>
 Pag 407    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html) <br>
+[book and videos](http://www.dissidents.com/books.htm) <br>
 <br>
 
 **Operational Amplifiers & Linear Integrated Circuits 3th Edition**<br>
 by James M. Fiore<br>
 Pag 589    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br>
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
+[book and videos](http://www.dissidents.com/books.htm)<br>
 <br>
-
-**Principles of Electronics**<br>
-by Colin Mitchell<br>
-Pag 778    Price Free online <br>
-[book](http://www.talkingelectronics.com/Download%20eBooks/Download%20eBooks.html)<br>
 
 **Grob's Basic Electronics 12th Edition**<br>
 by Mitchel Schultz<br>
 Pag 1264<br>
+<br>
+
+**Electronic Devices - Conventional Current Version 10th Edition**<br>
+by Thomas Floyd<br>
+Pag 976<br>
 <br>
 
 **Electronic Principles 8th Edition**<br>
@@ -97,6 +97,12 @@ Pag 1120<br>
 by Behzad Razavi<br>
 Pag 928<br>
 <br>
+
+**Principles of Electronics**<br>
+by Colin Mitchell<br>
+Pag 778    Price Free online <br>
+[book](http://www.talkingelectronics.com/Download%20eBooks/Download%20eBooks.html)<br>
+
 
 ### Going deeper into the rabbit hole in electronics.
 **The Art of Electronics 3th Edition**<br>
@@ -384,18 +390,27 @@ Dr. Robert M. O'Donnell - Lecturer<br>
 
 * How to learn modern **Embedded Systems** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
+
+* **STM32 BluePill in Rust - Project template and lot's of info** <br>
+  This is the project template I use in my BluePill projects. <br>
+  [https://github.com/joaocarvalhoopen/stm32_bluepill_in_rust__Template](https://github.com/joaocarvalhoopen/stm32_bluepill_in_rust__Template)
+
+* **All relevant Info on Pico and a starting project Template.** <br>
+  Where I have put all the info that I consider to be relevant for Pico development in Rust. <br>
+  **Raspberry Pi Pico in Rust Proj Template with RTIC USB-Serial and UF2** <br>
+  [https://github.com/joaocarvalhoopen/Raspberry_Pi_Pico_in_Rust__Proj_Template_with_RTIC_USB-Serial_UF2](https://github.com/joaocarvalhoopen/Raspberry_Pi_Pico_in_Rust__Proj_Template_with_RTIC_USB-Serial_UF2)
 <br>
 
 **Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
 Pag. 166    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
+[book and videos](http://www.dissidents.com/books.htm)<br>
 <br>
 
 **Laboratory Manual for Embedded Controllers using C and Arduino 2nd Edition**<br>
 By James Fiore<br>
 Pag. 100    Price Free Creative commons, but small symbolic price if bought on paper on Amazon.<br> 
-[book](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)<br>
+[book and videos](http://www.dissidents.com/books.htm)<br>
 <br>
 
 **Programming Arduino - Getting Started with Sketches, 2nd Edition**<br>
